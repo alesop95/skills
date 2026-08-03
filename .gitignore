@@ -1,0 +1,43 @@
+# Materiali privati e non versionati
+_notes/
+CLAUDE.local.md
+.claude/settings.local.json
+
+# MkDocs build output
+/site/
+/_site/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary
+~$*
+*.tmp
+
+# Obsidian
+.obsidian/
+
+# graphify intermediates (non versionare)
+docs/graphify-out/.graphify_*
+docs/graphify-out/converted/
+docs/graphify-out/cache/
+docs/graphify-out/*.json
+docs/graphify-out/cost.json
+docs/graphify-out/manifest.json
+# NON escludere graph.html

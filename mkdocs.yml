@@ -1,0 +1,92 @@
+site_name: Skills
+site_description: Technical and soft skills knowledge base
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Technical:
+    - Infrastructure:
+      - Infrastructure & Virtualization: technical/infrastructure/infrastructure-virtualization.md
+      - Networking Engineering & Security: technical/infrastructure/networking-engineering-security.md
+      - Backup & Disaster Recovery: technical/infrastructure/backup-disaster-recovery.md
+    - Security:
+      - Cybersecurity & IT Governance: technical/security/cybersecurity-it-governance.md
+      - Data Protection & Cryptography: technical/security/data-protection-cryptography.md
+    - Cloud:
+      - Cloud Platforms & Services: technical/cloud/cloud-platforms-services.md
+    - Software Engineering:
+      - Full-Stack Development & DevOps: technical/software-engineering/fullstack-development-devops.md
+      - LLMs & Generative AI: technical/software-engineering/llms-generative-ai.md
+      - ERP & Business Applications: technical/software-engineering/erp-business-applications.md
+      - Workflow Automation & API Integration: technical/software-engineering/workflow-automation-api-integration.md
+      - Ad-hoc Internal Development: technical/software-engineering/adhoc-internal-development.md
+      - DevOps: technical/software-engineering/devops.md
+    - Data:
+      - Data Management, Analytics & Reporting: technical/data/data-management-analytics-reporting.md
+    - IT Operations:
+      - System Administration: technical/it-operations/system-administration.md
+      - Advanced Helpdesk: technical/it-operations/advanced-helpdesk.md
+      - Software & License Management: technical/it-operations/software-license-management.md
+      - Time & Attendance Management: technical/it-operations/time-attendance-management.md
+      - IT Administration & Billing: technical/it-operations/it-administration-billing.md
+      - Formatting Machines & Operating Systems: technical/it-operations/formatting-machines-os.md
+      - Microsoft 365 Business: technical/it-operations/microsoft-365-business.md
+      - Windows Shell & Registry Customization: technical/it-operations/windows-shell-registry-customization.md
+    - Management:
+      - Leadership & Cross-Cutting Responsibilities: technical/management/leadership-management.md
+      - Project Planning & Scheduling: technical/management/project-planning-scheduling.md
+      - Technical Knowledge Architecture & Documentation: technical/management/technical-knowledge-architecture.md
+      - Quality Certification: technical/management/quality-certification.md
+      - Entrepreneurship & Technical Leading: technical/management/entrepreneurship-technical-leading.md
+      - IT Service Design & User Experience: technical/management/it-service-design-ux.md
+      - Product Management: technical/management/product-management.md
+      - Technical Hiring & Evaluation: technical/management/technical-hiring-evaluation.md
+      - UX & UI Design: technical/management/ux-ui-design.md
+  - Soft Skills:
+    - Soft Skills: soft/index.md
+
+# Icone footer (Material le mostra accanto alla nota "Made with Material for MkDocs", che
+# resta perche' non impostiamo extra.generator: false).
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/alessio-sopranzi
+      name: LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/alesop95
+      name: GitHub
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/alesop95
+      name: Telegram
+    - icon: fontawesome/solid/envelope
+      link: mailto:alessio.sopranzi.95@gmail.com
+      name: Email
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - admonition
+  - toc:
+      permalink: true
