@@ -1,4 +1,7 @@
 site_name: Skills
+# Serve al sitemap e ai link canonici. Mancava, e senza di esso alcune funzioni
+# del tema degradano in silenzio; va tenuto allineato all'URL delle Pages.
+site_url: https://alesop95.github.io/skills/
 site_description: Technical and soft skills knowledge base
 theme:
   name: material

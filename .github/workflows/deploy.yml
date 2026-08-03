@@ -33,6 +33,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Abilita GitHub Pages con sorgente Actions se non lo e' gia'. Serve
+      # perche' deploy-pages richiede che Pages sia configurato, e su un
+      # repository appena creato non lo e': senza questo passo il primo deploy
+      # falliva e andava abilitato a mano dalle impostazioni.
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
       - name: Build site
         run: mkdocs build --strict --site-dir _site
 
