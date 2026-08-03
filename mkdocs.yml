@@ -5,6 +5,8 @@ site_url: https://alesop95.github.io/skills/
 site_description: Technical and soft skills knowledge base
 theme:
   name: material
+  # Allineata al locale di default del plugin i18n qui sotto.
+  language: en
   features:
     - navigation.tabs
     - navigation.sections
@@ -83,8 +85,42 @@ extra:
       link: mailto:alessio.sopranzi.95@gmail.com
       name: Email
 
+# Tre lingue intercambiabili, con la stessa impostazione del sito dei progetti.
+#
+# docs_structure: suffix significa che la variante di lingua e' un suffisso nel
+# nome del file: il nome nudo con estensione md e' la lingua di default, lo stesso
+# nome con il codice di lingua interposto prima dell'estensione e' la traduzione.
+# Gli esempi non si scrivono per esteso qui, perche' il verificatore di
+# riservatezza leggerebbe "nome punto it" come un nome di dominio, ed e' giusto
+# che lo faccia.
+#
+# La lingua di default e' l'inglese e non l'italiano come sui
+# progetti, per una ragione tecnica: i file senza suffisso sono quelli in cui la
+# pipeline di lettore-doc inietta le evidenze, l'identificativo stabile di ogni
+# evidenza contiene lo slug del file, e le quattro intestazioni di contratto su
+# cui gli script si appoggiano sono in inglese. Tenere l'inglese come default
+# lascia intatti gli URL esistenti e i duecentoquarantasei identificativi gia'
+# pubblicati.
+#
+# fallback_to_default: una pagina non ancora tradotta resta visibile nella lingua
+# di default invece di dare 404, quindi il meccanismo funziona da subito e la
+# traduzione avanza una pagina alla volta.
 plugins:
   - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: it
+          name: Italiano
+          build: true
+        - locale: es
+          name: Español
+          build: true
 
 markdown_extensions:
   - pymdownx.highlight
