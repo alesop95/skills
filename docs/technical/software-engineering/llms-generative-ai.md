@@ -85,3 +85,22 @@ manually curated knowledge base.
 
 *Technology stack: to be enriched from source document.*
 
+### Translation Unit (TU)
+<!-- graphify-evidence-id: 83aae51c1eb1 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 0
+
+Questa traduzione salvata me la ritrova in memoria come 100% perché quando io confermo questa coppia segmenti (source-target) va ad aggiungersi al database della mia memoria di traduzione come “transl
+
+*Technology stack: to be enriched from source document.*
+
+### TMX (Translation Memory eXchange)
+<!-- graphify-evidence-id: 7f182cf2ad16 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 0
+
+Tra cui anche il formato TMX (Translation Memory eXchange). Funziona anche come plugin in Trados. Se ad esempio (come mostra nel video) ho un glossario in Excel, con aggettivi e rispettive traduzioni
+
+*Technology stack: to be enriched from source document.*

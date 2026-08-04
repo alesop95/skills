@@ -122,3 +122,72 @@ Considerazioni su migrazione Quello che serve sapere prima di procedere con una 
 Per qualsiasi necessità può contattare il nostro Servizio Clienti al numero gratuito 145 tutti i giorni dalle 8:00 alle 22:00, comprese le festività. A seguito della migrazione completa da connettivit
 
 *Technology stack: to be enriched from source document.*
+
+### Pacchetto di progetto Trados Studio
+<!-- graphify-evidence-id: 404296bc59e8 -->
+
+- **Source**: `2022-12-05_Procedura_Creazione_di_un_progetto_su_Studio.md`
+- **Graph community**: 0
+
+CREAZIONE DI UN PROGETTO CON TRADOS STUDIO Come si crea la cartella di un progetto?	3 Come si salva il materiale inviato dal cliente?	4
+
+*Technology stack: to be enriched from source document.*
+
+### Secondo giro installazioni Trados 2024 e pulizia postazioni
+<!-- graphify-evidence-id: ec38ba0b3f3f -->
+
+- **Source**: `secondo_giro installazioni Trados 2024 (e disinstallazione_pulizia postazioni).md`
+- **Graph community**: 4
+
+Aggiornamento Trados 2024: [PERSONA_5] [PERSONA_15] [RIMOSSO] + componente per Trados che serve per il World Server di [RIMOSSO] [RIMOSSO] [RIMOSSO] (pending) [RIMOSSO] [RIMOSSO] [RIMOSSO] [RIMOSSO] [RIMOSSO] B.
+
+*Technology stack: to be enriched from source document.*
+
+### RWS Trados GroupShare 2020 SR1 CU7 Technical Questionnaire
+<!-- graphify-evidence-id: f6eb0d62008a -->
+
+- **Source**: `RWS Trados GroupShare 2020 SR1 CU7_Step 2_Technical Questionnaire_EN_Intrawelt.md`
+- **Graph community**: 1
+
+RWS Trados GroupShare 2020 SR1 Technical Questionnaire Professional Services
+
+*Technology stack: to be enriched from source document.*
+
+### SDL License Server Manager (v18.0.79)
+<!-- graphify-evidence-id: 717b3dcdd684 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 1
+
+Per ulteriori problematiche vedere il file SDL_License_Server_Manager_User_Guide.pdf . Il PC di [RIMOSSO] ha l’accesso già salvato in rdp. Installazione SDL License server manager su nuovo server e
+
+*Technology stack: to be enriched from source document.*
+
+### Trados License Manager (online activation)
+<!-- graphify-evidence-id: eb851624c964 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 1
+
+Delle tre utility è proprio il Trados License Manager da utilizzare, in generale per fare una (de-)activation online https://gateway.rws.com/csm?sys_kb_id=9acd66e01b0f9a50772c0dcad34bcb07&id=kb_articl
+
+*Technology stack: to be enriched from source document.*
+
+### Trial license Trados Studio 2024 (30gg)
+<!-- graphify-evidence-id: 0178d8dc19d3 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 4
+
+Nel frattempo, si era scritto alla [RIMOSSO] e ci facciamo mandare altre licenze aggiuntive di prova per stare coperti (se possibile di una settimana) appena si hanno le suddette. Una volta settate le
+
+*Technology stack: to be enriched from source document.*
+
+### Deployment Trados 2024 sui PM Intrawelt (uninstall 2022 + install 2024 + trial)
+<!-- graphify-evidence-id: 65d6d88fb86d -->
+
+- **Source**: `secondo_giro installazioni Trados 2024 (e disinstallazione_pulizia postazioni).md`
+
+*Evidence text to be enriched from source document.*
+
+*Technology stack: to be enriched from source document.*

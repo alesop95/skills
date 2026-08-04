@@ -254,3 +254,63 @@ Se si ha un PC formattato con Windows 11 dove ho un utente amministratore chiama
 *Evidence text to be enriched from source document.*
 
 *Technology stack: to be enriched from source document.*
+
+### ipconfig /flushdns
+<!-- graphify-evidence-id: 2855bf54889a -->
+
+- **Source**: `flushare cache DNS da cmd.md`
+- **Graph community**: 6
+
+ipconfig /flushdns
+
+*Technology stack: to be enriched from source document.*
+
+### Ping su entrambi i nomi (test risoluzione)
+<!-- graphify-evidence-id: 6d0891a2eabc -->
+
+- **Source**: `ping entrambi i nomi.md`
+- **Graph community**: 6
+
+*Evidence text to be enriched from source document.*
+
+*Technology stack: to be enriched from source document.*
+
+### License Server (Studio network client licenses)
+<!-- graphify-evidence-id: b49359ab4314 -->
+
+- **Source**: `RWS Trados GroupShare 2020 SR1 CU7_Step 2_Technical Questionnaire_EN_Intrawelt.md`
+- **Graph community**: 1
+
+RWS Studio network client licenses need a Licensing Server component installed on a server. This can be the application server or a different one. Installation of the license server is not part of the
+
+*Technology stack: to be enriched from source document.*
+
+### Account RWS Intrawelt-Client (6058) e Intrawelt-Server (477664)
+<!-- graphify-evidence-id: 2eb3133119d1 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 8
+
+Entrando dentro l’account RWS, si può notare la presenza di un account Intrawelt-Client (6058) e Intrawelt-Server (477664). Nello specifico, Intrawelt-Server (477664) ha la licenza Groupshare, che è l
+
+*Technology stack: to be enriched from source document.*
+
+### Script PowerShell aggiornamento server licenza su client (registro HKCU)
+<!-- graphify-evidence-id: 2d7e70e8862b -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 7
+
+Questo script non modifica il file hosts, ma aggiorna direttamente le impostazioni di licenza. Trados Studio e altre applicazioni SDL/RWS non leggono automaticamente le impostazioni di licenza da un f
+
+*Technology stack: to be enriched from source document.*
+
+### NinjaOne per distribuzione centralizzata impostazioni
+<!-- graphify-evidence-id: 6e7606605a38 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 7
+
+Questo script non modifica il file hosts, ma aggiorna direttamente le impostazioni di licenza. Trados Studio e altre applicazioni SDL/RWS non leggono automaticamente le impostazioni di licenza da un f
+
+*Technology stack: to be enriched from source document.*

@@ -43,3 +43,12 @@ fingerprint data protection.
 
 *Technology stack: to be enriched from source document.*
 
+### Project Server Data Migration
+<!-- graphify-evidence-id: 717eb72c7c44 -->
+
+- **Source**: `RWS Trados GroupShare 2020 SR1 CU7_Step 2_Technical Questionnaire_EN_Intrawelt.md`
+- **Graph community**: 2
+
+Project Server Data Migration Please complete only if a new application/database server is setup for the upgrade. | Do you have ongoing server-based projects and want to migrate these? | col_1 |
+
+*Technology stack: to be enriched from source document.*

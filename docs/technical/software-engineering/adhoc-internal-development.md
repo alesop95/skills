@@ -144,3 +144,123 @@ Una volta selezionata la cartella, fare clic su Finish e quindi su Close per com
 Cliccare su Applica e chiudere. Per configurare la scadenza e le caratteristiche della password cliccare WIN+R, digitare gpedit.msc Seguire “Configurazione computer->Impostazioni di Windows->Impostazi
 
 *Technology stack: to be enriched from source document.*
+
+### Sub-organization LANGUAGE RESOURCES
+<!-- graphify-evidence-id: dab647d4ed97 -->
+
+- **Source**: `2022-11-07_Creazione di una memoria su Groupshare 2020.md`
+- **Graph community**: 2
+
+LANGUAGE RESOURCES Questa cartella contiene le sub-organization in cui sono create le TM settoriali (es. FINANCE, GDPR, PHARMA), quelle usate per tradurre il materiale aziendale interno (INTRAWELT) e
+
+*Technology stack: to be enriched from source document.*
+
+### Language Processing Rules e Field Template
+<!-- graphify-evidence-id: 486028fbff4a -->
+
+- **Source**: `2022-11-07_Creazione di una memoria su Groupshare 2020.md`
+- **Graph community**: 2
+
+Selezionare la lingua source e quella target, quindi modificare se necessario Language Processing Rules e Field Template. Negli Advanced Settings, generalmente la configurazione più efficace è quella
+
+*Technology stack: to be enriched from source document.*
+
+### Gestione credenziali Windows
+<!-- graphify-evidence-id: 5cb0019b8b15 -->
+
+- **Source**: `gestione credenziali windows.md`
+- **Graph community**: 3
+
+*Evidence text to be enriched from source document.*
+
+*Technology stack: to be enriched from source document.*
+
+### Trados Studio (CAT tool)
+<!-- graphify-evidence-id: 16f742e25db3 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 3
+
+Qui https://appstore.rws.com/Plugin/263 c'è un toolkit relativo a Trados Studio 2024. Facendo clic su Download ti fa arrivare a github: https://github.com/RWS/Sdl-studio-powershell-toolkit.
+
+*Technology stack: to be enriched from source document.*
+
+### Formato SDLXLIFF (bilingue basato su XLIFF/XML)
+<!-- graphify-evidence-id: d43bd79d859b -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 5
+
+La software house era sdl (ora rvs) ma il formato proprietario è rimasto lo stesso, è un formato basato su xliff, derivato da XML che è preparato per essere bilingue. Aprendo la cartella di progetto d
+
+*Technology stack: to be enriched from source document.*
+
+### Trados Accelerate (cloud collaboration)
+<!-- graphify-evidence-id: bc573dbfe3cd -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 3
+
+Trados Accelerate: architettura cloud-based per la collaborazione su progetti pubblicati che si interfaccia anch’essa con l’applicazione desktop pro dei PM e le applicazioni desktop freelancer dei lin
+
+*Technology stack: to be enriched from source document.*
+
+### Trados GroupShare (on-premise collaboration)
+<!-- graphify-evidence-id: a799f8f30526 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 3
+
+Trados Groupshare: architettura server on-premise per la collaborazione su progetti pubblicati che si interfaccia con l’applicazione desktop pro dei PM e le applicazioni desktop freelancer dei linguis
+
+*Technology stack: to be enriched from source document.*
+
+### [HOSTNAME_1] server (LAN [IP_4] / WAN [IP_5])
+<!-- graphify-evidence-id: 417982234241 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 3
+
+RWS Trados Studio: applicazione desktop con licenza pro appoggiata su license server. Trados Groupshare: architettura server on-premise per la collaborazione su progetti pubblicati che si interfaccia
+
+*Technology stack: to be enriched from source document.*
+
+### GroupShare API PowerShell Toolkit
+<!-- graphify-evidence-id: fd3f529653b0 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 3
+
+Qui https://appstore.rws.com/Plugin/268 c'è un toolkit che dovrebbe consentire di automatizzare alcune operazioni in Groupshare, fare manutenzione sulle TM, ecc… Facendo clic su Download ti fa arrivar
+
+*Technology stack: to be enriched from source document.*
+
+### Trados Accelerate Language Cloud PowerShell Toolkit
+<!-- graphify-evidence-id: c894d399e2bf -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 3
+
+Qui https://appstore.rws.com/Plugin/283, ma fronte Trados Accelerate. Facendo clic su Download ti fa arrivare a github: https://github.com/RWS/language-cloud-powershell-toolkit. Trados Studio 2
+
+*Technology stack: to be enriched from source document.*
+
+### Trados Studio 2024 PowerShell Toolkit
+<!-- graphify-evidence-id: 7efd310def4d -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 3
+
+Qui https://appstore.rws.com/Plugin/263 c'è un toolkit relativo a Trados Studio 2024. Facendo clic su Download ti fa arrivare a github: https://github.com/RWS/Sdl-studio-powershell-toolkit.
+
+*Technology stack: to be enriched from source document.*
+
+### Configurazione FileType (XML, testo delimitato con regex, embedded content)
+<!-- graphify-evidence-id: eb921a2a4a0a -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 3
+
+casellina filetype > seleziona il filetype corrispondente (Microsoft Word/Excel 2007-2019) > Embedded content > flag su 'Enable embedded content processing' e su 'Extract in all paragraphs' > Add > ne
+
+*Technology stack: to be enriched from source document.*

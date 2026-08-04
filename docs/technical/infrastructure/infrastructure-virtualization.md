@@ -250,3 +250,72 @@ Quindi praticamente DokuWiki funziona perfettamente su un server Linux perché �
 
 *Technology stack: to be enriched from source document.*
 
+### Database Server (storage TM/TB)
+<!-- graphify-evidence-id: e6839a256131 -->
+
+- **Source**: `RWS Trados GroupShare 2020 SR1 CU7_Step 2_Technical Questionnaire_EN_Intrawelt.md`
+- **Graph community**: 1
+
+The database server hosts the database and provides the storage for translation memories (TMs) and termbases (TBs) managed by RWS Trados GroupShare. PLEASE PROVIDE THE FOLLOWING INFORMATION: For detai
+
+*Technology stack: to be enriched from source document.*
+
+### Procedura Online Activation/Deactivation via activation server
+<!-- graphify-evidence-id: 564061b19dbf -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 1
+
+Online Activation and Deactivation of a GroupShare 2017 (or later version) License Praticamente si restituisce la licenza GS e ricreandola si aggiorna con le Tus in automatico (le Tus sono già state r
+
+*Technology stack: to be enriched from source document.*
+
+### SafeNet License Manager (WlmAdmin)
+<!-- graphify-evidence-id: 360b30e94c24 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 7
+
+SafeNet License Manager (WlmAdmin): Monitora tutte le attività di licenza e controlla la distribuzione delle licenze ai client. SafeNet License Manager (WlmAdmin) (new): stessa cosa sopra ma con inter
+
+*Technology stack: to be enriched from source document.*
+
+### Sentinel RMS License Manager (servizio Thales)
+<!-- graphify-evidence-id: 30a362b15c4f -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 7
+
+Tuttavia, Il ping del [IP_6] funziona correttamente, e in services.msc il servizio Sentinel RMS License Manager è in esecuzione. Questo significa che la connessione di rete e il servizio di li
+
+*Technology stack: to be enriched from source document.*
+
+### Licenze flottanti (floating)
+<!-- graphify-evidence-id: 5782bc6d5419 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 7
+
+Come chiarito nella spiegazione delle licenze flottanti e host fisici/virtuali, anche se le licenze sono di tipo floating, è necessario configurare i client per connettersi al nuovo server. Infatti, o
+
+*Technology stack: to be enriched from source document.*
+
+### Macchine virtuali analisi1 e analisi2 ([HOSTNAME_4] 2019)
+<!-- graphify-evidence-id: 684d334ab530 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 7
+
+La licenza sul [HOSTNAME_4] 2019 per analisi1 e analisi2 è a tutti gli effetti una licenza dal punto di vista del Trados License Server Manager – vedere spiegazione delle licenze flottanti e host fisici/
+
+*Technology stack: to be enriched from source document.*
+
+### Configurazione client per license server (Alternative activation > Use a License Server)
+<!-- graphify-evidence-id: befdf944e861 -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 7
+
+Anche se le licenze sono gestite tramite il cloud di RWS, è necessario che il Trados License Manager sul server locale (HP Gen 10) sia configurato correttamente per comunicare con il cloud e distribui
+
+*Technology stack: to be enriched from source document.*

@@ -133,3 +133,13 @@ Che scriverà direttamente nella cartella del server C:\Program Files\BioStar 2(
 1. PRINCIPI GENERALI Il presente documento ha l’obiettivo di regolamentare l’accesso alla postazione di lavoro, l’utilizzo del telefono cellulare, di internet e della posta elettronica per gli utent
 
 *Technology stack: to be enriched from source document.*
+
+### Application Server (Project/TM/MultiTerm/Online Editor)
+<!-- graphify-evidence-id: b8712368b414 -->
+
+- **Source**: `RWS Trados GroupShare 2020 SR1 CU7_Step 2_Technical Questionnaire_EN_Intrawelt.md`
+- **Graph community**: 1
+
+This is the machine where RWS Trados GroupShare 2020 Server will be installed. The Application Server hosts application services provided by Project Server, TM Server, MultiTerm Server and the Online
+
+*Technology stack: to be enriched from source document.*
