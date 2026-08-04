@@ -348,3 +348,12 @@ Ottieni il percorso del registro di sistema per il cestino $recycleBinRegPath = 
 
 *Technology stack: to be enriched from source document.*
 
+### Wechoid Locking Utility (codici blocco hardware)
+<!-- graphify-evidence-id: b72a16f89c8f -->
+
+- **Source**: `[HOSTNAME_8].md`
+- **Graph community**: 8
+
+Locking Utility (Wechoid): Genera codici di blocco per attivare le licenze di rete. Wechoid mostra le informazioni di blocco hardware, come l'indirizzo MAC, l'ID del disco rigido, e altre caratteristi
+
+*Technology stack: to be enriched from source document.*

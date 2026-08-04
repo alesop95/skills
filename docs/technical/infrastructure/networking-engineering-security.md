@@ -250,3 +250,12 @@ https://www.bitdefender.com/en-us/business/webinars?_gl=1*1x4sven*_gcl_au*MTg5OT
 *Evidence text to be enriched from source document.*
 
 *Technology stack: to be enriched from source document.*
+
+### Flusso troubleshooting DNS/hostname sui 5 PC problematici
+<!-- graphify-evidence-id: 1eae13824507 -->
+
+- **Source**: `flushare cache DNS da cmd.md`
+
+*Evidence text to be enriched from source document.*
+
+*Technology stack: to be enriched from source document.*
