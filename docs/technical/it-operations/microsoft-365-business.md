@@ -237,3 +237,33 @@ Question 29: Has the Sub-contractor defined, documented, and maintained a policy
 *Evidence text to be enriched from source document.*
 
 *Technology stack: to be enriched from source document.*
+
+### Microsoft 365 Exchange Online
+<!-- graphify-evidence-id: 7d2760ffea7a -->
+
+- **Source**: `Configurazione server IMAP in Odoo con mail Outlook.md`
+- **Graph community**: 6
+
+La mail [EMAIL_3] esiste su Exchange in Microsoft 365 Business, e se iniziamo a configurare un server di posta in arrivo in Odoo usando IMAP. Per questo la porta corretta è 993, non 587.
+
+*Technology stack: to be enriched from source document.*
+
+### Security Defaults tenant (blocca Basic Auth)
+<!-- graphify-evidence-id: 8d99aece81cf -->
+
+- **Source**: `Configurazione server IMAP in Odoo con mail Outlook.md`
+- **Graph community**: 6
+
+Per controllare se il Tenant blocca Basic Auth e in un tenant SENZA licenze Entra, l’unico che può farlo è Security Defaults. Se si va su “Ruoli assegnati” i ruoli sono: Serve il GLOBAL ADMINISTRATOR
+
+*Technology stack: to be enriched from source document.*
+
+### Client secret Azure Odoo Outlook Email
+<!-- graphify-evidence-id: 4f8ed952f2f3 -->
+
+- **Source**: `TREX.md`
+- **Graph community**: 2
+
+An error occurred when fetching the access token. AADSTS7000222: The provided client secret keys for app '8502941f-96e4-47a8-aa2d-cce8f91ff28d' are expired. Visit the Azure portal to create new keys f
+
+*Technology stack: to be enriched from source document.*

@@ -482,6 +482,16 @@ INTRODUZIONE La normativa contenuta nel Regolamento UE 2016/679 si propone di tu
 
 *Technology stack: to be enriched from source document.*
 
+### ESXi Host (VM [HOSTNAME_3])
+<!-- graphify-evidence-id: 16fbb4188074 -->
+
+- **Source**: `groupshare-upgrade-handoff.md`
+- **Graph community**: 11
+
+| Componente | LAN | WAN | Credenziali | Note | |---|---|---|---|---| | Firewall/VPN (Seeweb Foundation Server PRO - Cloud Appliance) | [IP_5] | [RIMOSSO] | user1 / mai7ohze | | | ESXi
+
+*Technology stack: to be enriched from source document.*
+
 ## Capability gaps acknowledged
 
 Broader visibility on strategic IT planning, budget, KPIs, risk

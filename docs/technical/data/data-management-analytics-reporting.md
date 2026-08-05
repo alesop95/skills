@@ -35,3 +35,12 @@ under ERP & Business Applications.*
 
 *Technology stack: to be enriched from source document.*
 
+### Query SQL audit utente Odoo
+<!-- graphify-evidence-id: 421ae50c4bf7 -->
+
+- **Source**: `Interrogare attivita utente specifico in Odoo (v12).md`
+- **Graph community**: 4
+
+*Evidence text to be enriched from source document.*
+
+*Technology stack: to be enriched from source document.*

@@ -54,3 +54,13 @@ transfers, and lease/SLA agreement administration.
 - Al fine di prevenire il rischio di utilizzi impropri della rete, l’azienda adotta un sistema di filtri che riduce fortemente la possibilità di accesso a categorie di siti i cui contenuti sono stati
 
 *Technology stack: to be enriched from source document.*
+
+### SDI Sistema di Interscambio
+<!-- graphify-evidence-id: 3240dcfac100 -->
+
+- **Source**: `Cambio Anno T-Rex (2026).md`
+- **Graph community**: 4
+
+E la questione delle INV/ è sistemata. AUT/ Inizialmente le AUT erano settate così:
+
+*Technology stack: to be enriched from source document.*

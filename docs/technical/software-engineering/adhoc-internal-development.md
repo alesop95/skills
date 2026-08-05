@@ -264,3 +264,13 @@ Qui https://appstore.rws.com/Plugin/263 c'è un toolkit relativo a Trados Studio
 casellina filetype > seleziona il filetype corrispondente (Microsoft Word/Excel 2007-2019) > Embedded content > flag su 'Enable embedded content processing' e su 'Extract in all paragraphs' > Add > ne
 
 *Technology stack: to be enriched from source document.*
+
+### PowerShell Connect-ExchangeOnline
+<!-- graphify-evidence-id: 09105cdf765d -->
+
+- **Source**: `Configurazione server IMAP in Odoo con mail Outlook.md`
+- **Graph community**: 6
+
+PS C:\Users\Utente> Connect-ExchangeOnline Set-Mailbox [EMAIL_3] -Type Regular E:
+
+*Technology stack: to be enriched from source document.*

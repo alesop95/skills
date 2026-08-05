@@ -314,3 +314,22 @@ Questo script non modifica il file hosts, ma aggiorna direttamente le impostazio
 Questo script non modifica il file hosts, ma aggiorna direttamente le impostazioni di licenza. Trados Studio e altre applicazioni SDL/RWS non leggono automaticamente le impostazioni di licenza da un f
 
 *Technology stack: to be enriched from source document.*
+
+### Task preparazione file
+<!-- graphify-evidence-id: eb43d4a030b2 -->
+
+- **Source**: `T-Rex tour _ Episodio 1 - Parte 1.md`
+- **Graph community**: 0
+
+[PERSONA_13] 1:30 E fondamentalmente, che cosa fanno i commerciali quando, quando hanno dei nuovi contatti, perché vanno in fiera, contattano qualcuno per telefono, contattano qualcuno
+
+*Technology stack: to be enriched from source document.*
+
+### Ciclo vendita end-to-end (Lead -> SO -> Task -> INV)
+<!-- graphify-evidence-id: 892b29d3815d -->
+
+- **Source**: `TREX.md`
+
+*Evidence text to be enriched from source document.*
+
+*Technology stack: to be enriched from source document.*
