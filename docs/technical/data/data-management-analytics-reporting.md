@@ -2,25 +2,16 @@
 
 ## Overview
 
-Operational handling of structured and unstructured business data, from
-ingestion and storage through transformation, analytical reporting, and
-delivery of insights to support business decisions. Includes descriptive
-statistics on operational datasets and ad-hoc data extractions from line-of-
-business systems.
+Operational handling of structured and unstructured business data, from ingestion and storage through transformation, analytical reporting, and delivery of insights to support business decisions. Includes descriptive statistics on operational datasets and ad-hoc data extractions from line-of- business systems.
 
 ## Technologies & tools
 
-*To be populated. Candidate entries include relational databases already
-covered under Full-Stack Development & DevOps, Power Query and Excel
-analytics covered under Microsoft 365 Business, and Odoo reporting covered
-under ERP & Business Applications.*
+*To be populated. Candidate entries include relational databases already covered under Full-Stack Development & DevOps, Power Query and Excel analytics covered under Microsoft 365 Business, and Odoo reporting covered under ERP & Business Applications.*
 
 ## Responsibilities & operational scope
 
-- Use data analysis to generate insights and recommendations supporting
-  business decisions
-- Custom queries on management software to extract operational information
-  (customer turnover distribution, orders, commercial data)
+- Use data analysis to generate insights and recommendations supporting business decisions
+- Custom queries on management software to extract operational information (customer turnover distribution, orders, commercial data)
 - Descriptive statistics on operational datasets
 
 ## Projects & evidence

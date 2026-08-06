@@ -2,15 +2,11 @@
 
 ## Overview
 
-Protection of corporate and personal data through encryption at rest,
-secure password management at enterprise scale, and selection of
-zero-knowledge storage solutions. Covers full-disk encryption, container-
-based encryption, and centralized credential vaults deployed across LAN.
+Protection of corporate and personal data through encryption at rest, secure password management at enterprise scale, and selection of zero-knowledge storage solutions. Covers full-disk encryption, container- based encryption, and centralized credential vaults deployed across LAN.
 
 ## Technologies & tools
 
-- **Vaultwarden** — self-hosted Bitwarden-compatible password manager,
-  deployed across corporate LAN
+- **Vaultwarden** — self-hosted Bitwarden-compatible password manager, deployed across corporate LAN
 - **KeePass XC** — local password manager for individual use
 - **BitLocker** — Windows full-disk encryption
 - **VeraCrypt** — container-based encryption
@@ -22,8 +18,7 @@ based encryption, and centralized credential vaults deployed across LAN.
 - Data protection and cryptography across endpoints and storage
 - Password manager development and deployment:
   - KeePass XC for private use
-  - Vaultwarden deployed across the corporate LAN as enterprise
-    credential vault
+  - Vaultwarden deployed across the corporate LAN as enterprise credential vault
 - BitLocker administration for full-disk encryption on Windows endpoints
 - VeraCrypt for encrypted containers and portable encrypted volumes
 - Evaluation and use of zero-knowledge cloud storage (Proton Drive)

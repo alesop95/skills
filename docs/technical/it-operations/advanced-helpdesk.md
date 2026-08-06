@@ -2,44 +2,29 @@
 
 ## Overview
 
-First and second-level technical support for local and remote users,
-covering diagnosis of software and configuration issues, device
-provisioning, license operations, and infrastructure-side troubleshooting.
-Includes hardware lifecycle planning and standardized OS deployment
-workflows across heterogeneous workstation profiles.
+First and second-level technical support for local and remote users, covering diagnosis of software and configuration issues, device provisioning, license operations, and infrastructure-side troubleshooting. Includes hardware lifecycle planning and standardized OS deployment workflows across heterogeneous workstation profiles.
 
 ## Technologies & tools
 
 - **nLite** — custom Windows bootable media builds
 - Linux live environments for GPT partitioning and pre-install operations
-- **ABBYY License Manager**, **Trados**, **Biostar**, **TimeWalker** —
-  managed business applications
+- **ABBYY License Manager**, **Trados**, **Biostar**, **TimeWalker** — managed business applications
 - UPS systems for electrical continuity
 - Antivirus / endpoint protection (see also Cybersecurity & IT Governance)
 
 ## Responsibilities & operational scope
 
 - First-level technical support for local and remote users
-- Diagnosis of issues across software, LAN, WAN configuration, and user
-  access
+- Diagnosis of issues across software, LAN, WAN configuration, and user access
 - End-user device, user access, and system troubleshooting
 - Client configuration and setup
-- Automation and improvement of onboarding/offboarding processes for
-  scalability and user satisfaction
-- Collaboration with internal teams (project management) to ensure
-  continuity, reliability, and performance of infrastructure services
-- Standardized device provisioning and OS deployment workflows using
-  custom bootable media: nLite-based Windows builds, Linux live
-  environments for GPT partitioning, multi-hardware imaging validation,
-  ensuring full hardware compatibility and reducing setup time and
-  configuration errors across workstation profiles
-- Hardware lifecycle management: company-wide PC replacement plan to phase
-  out obsolete Intel pre-7th gen systems and ensure full Windows 11
-  compliance, improving reliability and long-term support
+- Automation and improvement of onboarding/offboarding processes for scalability and user satisfaction
+- Collaboration with internal teams (project management) to ensure continuity, reliability, and performance of infrastructure services
+- Standardized device provisioning and OS deployment workflows using custom bootable media: nLite-based Windows builds, Linux live environments for GPT partitioning, multi-hardware imaging validation, ensuring full hardware compatibility and reducing setup time and configuration errors across workstation profiles
+- Hardware lifecycle management: company-wide PC replacement plan to phase out obsolete Intel pre-7th gen systems and ensure full Windows 11 compliance, improving reliability and long-term support
 - Server and service performance monitoring
 - System log management and event analysis
-- Software license management and migration (ABBYY, Trados, Biostar,
-  TimeWalker)
+- Software license management and migration (ABBYY, Trados, Biostar, TimeWalker)
 - UPS and electrical continuity management
 - ISP provider migration and internal settings management
 

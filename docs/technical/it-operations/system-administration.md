@@ -2,52 +2,37 @@
 
 ## Overview
 
-Formal system administrator role with end-to-end responsibility for
-physical and virtual server fleet, endpoint estate, and centralized
-remote monitoring. Covers Windows and Linux/Unix administration, RMM-
-driven operations, certificate and secure-communication management, and
-custom scripting for routine automation.
+Formal system administrator role with end-to-end responsibility for physical and virtual server fleet, endpoint estate, and centralized remote monitoring. Covers Windows and Linux/Unix administration, RMM- driven operations, certificate and secure-communication management, and custom scripting for routine automation.
 
 *Formal appointment as System Administrator (Italian regulatory context).*
 
 ## Technologies & tools
 
-- **Windows Server** and Windows client (10/11) — primary endpoint and
-  server OS
-- **Linux** (Debian/Ubuntu lineage) — server administration and Bash
-  scripting
+- **Windows Server** and Windows client (10/11) — primary endpoint and server OS
+- **Linux** (Debian/Ubuntu lineage) — server administration and Bash scripting
 - **NinjaOne** — RMM platform for centralized fleet management
 - **PowerShell**, **Python**, **Bash** — automation and custom scripting
 - **OpenSSH**, **FTP**, **SFTP** — secure remote access and file transfer
 - **TLS/HTTPS** certificate management
 - **Microsoft Teams**, **Telegram** — alerting destinations
 - **ITGlue** — RMM-integrated documentation
-- Native Windows admin tooling: `systeminfo`, `msinfo32`, `wmic`,
-  `sfc /scannow`, `chkdsk`, `driverquery`, `tasklist`, `taskkill`,
-  `regedit`, `taskmgr`, `cleanmgr`, `diskpart`, `diskmgmt.msc`,
-  `devmgmt.msc`, `compmgmt.msc`, `perfmon`, `eventvwr`, `services.msc`,
-  `msconfig`, `netplwiz`
-- Native network troubleshooting: `ipconfig /all`, `ping`, `tracert`,
-  `netstat -ano`, `getmac`
+- Native Windows admin tooling: `systeminfo`, `msinfo32`, `wmic`, `sfc /scannow`, `chkdsk`, `driverquery`, `tasklist`, `taskkill`, `regedit`, `taskmgr`, `cleanmgr`, `diskpart`, `diskmgmt.msc`, `devmgmt.msc`, `compmgmt.msc`, `perfmon`, `eventvwr`, `services.msc`, `msconfig`, `netplwiz`
+- Native network troubleshooting: `ipconfig /all`, `ping`, `tracert`, `netstat -ano`, `getmac`
 - **Wine** — Windows application compatibility on Linux
 
 ## Responsibilities & operational scope
 
 ### General administration
 
-- Monitoring of performance, KPIs, service levels, and IT systems /
-  hardware obsolescence (e.g. company-wide PC replacement plan)
+- Monitoring of performance, KPIs, service levels, and IT systems / hardware obsolescence (e.g. company-wide PC replacement plan)
 - Remote monitoring and proactive alerting systems
 - Local and remote user support
 - FTP, SSH, and SFTP server setup and maintenance
 - Physical and virtual server maintenance and updates
 - TLS/HTTPS certificate management and secure communication configuration
-- Installation and management of clients, users, print queues, and
-  peripherals
+- Installation and management of clients, users, print queues, and peripherals
 - Automation of repetitive tasks via custom scripting (Python, PowerShell)
-- Windows-specific tuning: registry-level adjustments for preview, system
-  hibernation, recycle-bin space limits, context-menu customization,
-  preview handler management
+- Windows-specific tuning: registry-level adjustments for preview, system hibernation, recycle-bin space limits, context-menu customization, preview handler management
 
 ### Linux/Unix administration
 
@@ -60,39 +45,27 @@ custom scripting for routine automation.
 
 - Centralized management of all corporate endpoints and the Proxmox node
 - Agent configuration and management on Windows, Linux, and macOS
-- Proactive monitoring of logs, hardware and software performance, uptime,
-  and service availability
+- Proactive monitoring of logs, hardware and software performance, uptime, and service availability
 - Custom alerting with delivery to Microsoft Teams and Telegram
-- Advanced alerting for critical events (storage saturation, CPU/RAM
-  pressure, system errors)
-- Centralized patch management automation, maintenance scripts, and
-  software deployment via custom policies
-- Remote PowerShell and CMD scripting for non-disruptive operator
-  interventions
+- Advanced alerting for critical events (storage saturation, CPU/RAM pressure, system errors)
+- Centralized patch management automation, maintenance scripts, and software deployment via custom policies
+- Remote PowerShell and CMD scripting for non-disruptive operator interventions
 - Encrypted endpoint and server backup procedures with validated restore
-- RMM integration with internal technical documentation (ITGlue) for
-  structured operational workflows
+- RMM integration with internal technical documentation (ITGlue) for structured operational workflows
 - Secure remote desktop operations with full activity traceability
-- Failure prevention through proactive monitoring and corrective
-  automation
+- Failure prevention through proactive monitoring and corrective automation
 - Analytics on corporate performance and IT resource usage
 - RMM integration with ERP systems and business workflows
 
 ### Network and security responsibilities (operational overlap)
 
-- Management of the complete corporate network, VPN, firewall, and
-  network security
+- Management of the complete corporate network, VPN, firewall, and network security
 - Server and network-service installation, configuration, and updates
-- Application of system security policies, firewall management, and
-  service hardening
-- Application lifecycle oversight, ensuring optimal operation at
-  organizational scale
-- Provisioning, maintenance, and update automation via scripts, patches,
-  and policies
-- Monitoring tool adoption and proposing optimizations to ensure
-  consistent management policies
-- Identification and testing of AI and automation solutions for
-  efficiency, helpdesk, asset management, and knowledge sharing
+- Application of system security policies, firewall management, and service hardening
+- Application lifecycle oversight, ensuring optimal operation at organizational scale
+- Provisioning, maintenance, and update automation via scripts, patches, and policies
+- Monitoring tool adoption and proposing optimizations to ensure consistent management policies
+- Identification and testing of AI and automation solutions for efficiency, helpdesk, asset management, and knowledge sharing
 
 ## Projects & evidence
 

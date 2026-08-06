@@ -2,40 +2,30 @@
 
 ## Overview
 
-End-to-end workstation rebuild and OS recovery operations across diverse
-hardware generations, from base hardware assembly through partition
-schema design, driver management, and OS installation with custom
-deployment media. Covers Windows and Linux distributions on both modern
-and legacy machines.
+End-to-end workstation rebuild and OS recovery operations across diverse hardware generations, from base hardware assembly through partition schema design, driver management, and OS installation with custom deployment media. Covers Windows and Linux distributions on both modern and legacy machines.
 
 ## Technologies & tools
 
 - **Medicat USB** — multi-tool recovery USB suite
 - **Clonezilla** — disk imaging and cloning
 - **gnome-disk-utility** — partition and volume operations
-- **Ubuntu LTS**, **Xubuntu**, **anduinOS** — Linux distributions tested
-  and deployed
+- **Ubuntu LTS**, **Xubuntu**, **anduinOS** — Linux distributions tested and deployed
 - **Windows 11** — current target OS, including known-issue remediation
 - Live OS environments for partitioning and recovery operations
 
 ## Responsibilities & operational scope
 
 - Formatting of machines and installation of operating systems
-- OS recovery from bootable devices with hardware/firmware compatibility
-  validation
-- Linux distribution testing and selection (anduinOS, Ubuntu LTS,
-  Xubuntu)
-- Experience with Medicat USB, Clonezilla, gnome-disk-utility, and live
-  OS environments
+- OS recovery from bootable devices with hardware/firmware compatibility validation
+- Linux distribution testing and selection (anduinOS, Ubuntu LTS, Xubuntu)
+- Experience with Medicat USB, Clonezilla, gnome-disk-utility, and live OS environments
 - Windows 11 issue diagnosis and remediation
-- Basic physical assembly of desktop workstation components (RAM, SSD,
-  peripherals)
+- Basic physical assembly of desktop workstation components (RAM, SSD, peripherals)
 - Creation of customized installation media
 - Advanced disk partition management on Linux and Windows
 - Advanced driver management
 - User account and system registry management
-- Refurbishment of older machines: partition schema design, hardware-
-  software compatibility analysis, legacy driver sourcing
+- Refurbishment of older machines: partition schema design, hardware- software compatibility analysis, legacy driver sourcing
 - Windows Update, hotfix, and hardware obsolescence management
 
 ## Projects & evidence

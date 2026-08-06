@@ -2,11 +2,7 @@
 
 ## Overview
 
-Design and operation of structured corporate networks spanning LAN, WAN,
-Wi-Fi, VPN, and segmented VLAN topologies, with physical and cloud-based
-firewall enforcement. Covers identity-based access, bandwidth management,
-endpoint detection and response integration, and domain/DNS lifecycle
-operations.
+Design and operation of structured corporate networks spanning LAN, WAN, Wi-Fi, VPN, and segmented VLAN topologies, with physical and cloud-based firewall enforcement. Covers identity-based access, bandwidth management, endpoint detection and response integration, and domain/DNS lifecycle operations.
 
 ## Technologies & tools
 
@@ -21,17 +17,14 @@ operations.
 - Networking concepts and DHCP administration
 - Network and server monitoring with anomaly detection and resolution
 - Network security policy enforcement
-- LAN access management for internal and external users via IPsec VPN,
-  with network segmentation
-- Design of structured networks: WAN, LAN, Wi-Fi, VPN, VLAN restrictions,
-  physical and cloud firewall systems
+- LAN access management for internal and external users via IPsec VPN, with network segmentation
+- Design of structured networks: WAN, LAN, Wi-Fi, VPN, VLAN restrictions, physical and cloud firewall systems
 - Firewall implementation, management, and customization
 - VPN configuration and secure remote access provisioning
 - Security incident monitoring and response
 - EDR management (Bitdefender GravityZone) including policy deployment
 - Network bandwidth allocation and QoS policies
-- Domain lifecycle expertise: CMS administration, redirects, registration,
-  hosting migration and backup (WordPress, Aruba, Fastnet)
+- Domain lifecycle expertise: CMS administration, redirects, registration, hosting migration and backup (WordPress, Aruba, Fastnet)
 
 ## Projects & evidence
 

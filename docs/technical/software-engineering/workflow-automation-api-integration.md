@@ -2,10 +2,7 @@
 
 ## Overview
 
-Design and operation of cross-system workflow automation via n8n,
-connecting line-of-business applications, LLM pipelines, RMM platforms,
-and corporate communication channels through REST API integrations and
-event-driven triggers.
+Design and operation of cross-system workflow automation via n8n, connecting line-of-business applications, LLM pipelines, RMM platforms, and corporate communication channels through REST API integrations and event-driven triggers.
 
 ## Technologies & tools
 
@@ -17,8 +14,7 @@ event-driven triggers.
 
 ## Responsibilities & operational scope
 
-*Capability stub. Skill entries are populated automatically from
-anonymized project documentation.*
+*Capability stub. Skill entries are populated automatically from anonymized project documentation.*
 
 ## Projects & evidence
 

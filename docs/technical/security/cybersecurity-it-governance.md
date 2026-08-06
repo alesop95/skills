@@ -2,27 +2,15 @@
 
 ## Overview
 
-Definition, implementation, and monitoring of cybersecurity strategies
-protecting data, endpoints, and services, with formal responsibility for
-the security of corporate systems and customer-facing products. Covers
-regulatory compliance (GDPR, ISO/IEC 27001 implementation path), GDPR
-data breach response including the breach register and notification to
-the supervisory authority under Articles 33 and 34, vulnerability
-assessment, penetration testing coordination, and EDR/anti-malware
-platform operations.
+Definition, implementation, and monitoring of cybersecurity strategies protecting data, endpoints, and services, with formal responsibility for the security of corporate systems and customer-facing products. Covers regulatory compliance (GDPR, ISO/IEC 27001 implementation path), GDPR data breach response including the breach register and notification to the supervisory authority under Articles 33 and 34, vulnerability assessment, penetration testing coordination, and EDR/anti-malware platform operations.
 
 ## Technologies & tools
 
-- **GDPR data breach workflow** — breach register, risk assessment,
-  notification to the Garante within 72 hours, communication to data
-  subjects (Articles 33 and 34, Legislative Decree 51/2018)
+- **GDPR data breach workflow** — breach register, risk assessment, notification to the Garante within 72 hours, communication to data subjects (Articles 33 and 34, Legislative Decree 51/2018)
 - **Bitdefender GravityZone** — EDR platform (see also Networking)
-- **ESET business** — centralized endpoint distribution, license
-  management, custom protection policies
-- **OpenVAS** — vulnerability scanning, including VMware ESXi free
-  edition
-- **Nessus** — vulnerability assessment on VMware (vCenter-managed and
-  standalone ESXi)
+- **ESET business** — centralized endpoint distribution, license management, custom protection policies
+- **OpenVAS** — vulnerability scanning, including VMware ESXi free edition
+- **Nessus** — vulnerability assessment on VMware (vCenter-managed and standalone ESXi)
 - **VMware vCenter / ESXi** — assessment target environments
 
 ### Certifications and ongoing study
@@ -35,24 +23,17 @@ platform operations.
 
 - Cybersecurity and IT governance, strategy, and risk management
 - IT security protocols and breach prevention
-- Cybersecurity software control and maintenance: endpoint, anti-
-  malware, perimeter management, EDR
-- ESET business administration: centralized endpoint distribution,
-  license management, custom protection policies
+- Cybersecurity software control and maintenance: endpoint, anti- malware, perimeter management, EDR
+- ESET business administration: centralized endpoint distribution, license management, custom protection policies
 - Bitdefender GravityZone administration
 - Regulatory compliance assurance: GDPR, ISO frameworks
 - ISO/IEC 27001 implementation leadership (ongoing study and rollout)
 - GDPR compliance program operations
-- Definition, implementation, and monitoring of cybersecurity strategies
-  protecting data, endpoints, and services
-- Organization of phishing simulation, vulnerability assessment, and
-  penetration testing activities
-- Definition of policies and procedures in IT, security, and data
-  protection domains
-- Formal responsibility for the security of data on corporate systems
-  and customer-facing products
-- Vulnerability assessment on VMware infrastructure (vCenter-managed and
-  standalone ESXi) via Nessus and OpenVAS
+- Definition, implementation, and monitoring of cybersecurity strategies protecting data, endpoints, and services
+- Organization of phishing simulation, vulnerability assessment, and penetration testing activities
+- Definition of policies and procedures in IT, security, and data protection domains
+- Formal responsibility for the security of data on corporate systems and customer-facing products
+- Vulnerability assessment on VMware infrastructure (vCenter-managed and standalone ESXi) via Nessus and OpenVAS
 - Remediation policy strategy implementation
 - SaaS security oversight
 
@@ -494,6 +475,4 @@ INTRODUZIONE La normativa contenuta nel Regolamento UE 2016/679 si propone di tu
 
 ## Capability gaps acknowledged
 
-Broader visibility on strategic IT planning, budget, KPIs, risk
-assessment, procurement, and policy is currently developing — see
-Leadership & Management for cross-cutting coverage.
+Broader visibility on strategic IT planning, budget, KPIs, risk assessment, procurement, and policy is currently developing — see Leadership & Management for cross-cutting coverage.
