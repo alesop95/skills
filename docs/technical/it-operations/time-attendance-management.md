@@ -2,11 +2,7 @@
 
 ## Overview
 
-Lifecycle management of time and attendance systems including
-installation, configuration, performance tuning, database administration,
-firmware updates, and migration across hardware and virtual environments.
-Covers LAN-hosted deployments with controlled network access and
-fingerprint data protection.
+Lifecycle management of time and attendance systems including installation, configuration, performance tuning, database administration, firmware updates, and migration across hardware and virtual environments. Covers LAN-hosted deployments with controlled network access and fingerprint data protection.
 
 ## Technologies & tools
 
@@ -27,8 +23,7 @@ fingerprint data protection.
 - Access control configuration
 - Database administration (DBA), setup, and maintenance (SQL Server)
 - Firmware upgrade and migration
-- Migration to new servers or virtualized environments, including LAN-
-  based hosting
+- Migration to new servers or virtualized environments, including LAN- based hosting
 - Security hardening: network access rules, fingerprint data protection
 
 ## Projects & evidence

@@ -2,40 +2,28 @@
 
 ## Overview
 
-Design and operation of backup and disaster recovery strategies covering
-physical and virtual workloads, endpoint devices, and configuration data.
-Includes hypervisor-level backup, NAS-based storage, encrypted cloud
-backup, retention policy design, and validated restore procedures.
+Design and operation of backup and disaster recovery strategies covering physical and virtual workloads, endpoint devices, and configuration data. Includes hypervisor-level backup, NAS-based storage, encrypted cloud backup, retention policy design, and validated restore procedures.
 
 ## Technologies & tools
 
-- **Veeam** — primary enterprise backup platform, both hypervisor-level
-  and endpoint
-- **Proxmox VE** — full hypervisor backup and migration on physical
-  servers
+- **Veeam** — primary enterprise backup platform, both hypervisor-level and endpoint
+- **Proxmox VE** — full hypervisor backup and migration on physical servers
 - **QNAP** — primary NAS storage for backup targets
-- **Microsoft Azure Backup** — off-site cloud backup for selected
-  workloads
+- **Microsoft Azure Backup** — off-site cloud backup for selected workloads
 - **NinjaOne** — cloud encrypted backup for endpoints managed via RMM
 
 ## Responsibilities & operational scope
 
-- Backup strategy design including storage tiering and disaster recovery
-  planning
-- Full hypervisor-level backup and migration of Proxmox VE on physical
-  servers
-- Configuration of backup/restore jobs, tuning, capacity planning, and
-  problem resolution
-- Backup policy management: tuning, capacity planning, restore procedures
-  and retention windows
+- Backup strategy design including storage tiering and disaster recovery planning
+- Full hypervisor-level backup and migration of Proxmox VE on physical servers
+- Configuration of backup/restore jobs, tuning, capacity planning, and problem resolution
+- Backup policy management: tuning, capacity planning, restore procedures and retention windows
 - Archiving and long-term retention of data and configuration snapshots
-- Ensuring IT governance procedures around backup and recovery are
-  documented and kept up to date
+- Ensuring IT governance procedures around backup and recovery are documented and kept up to date
 
 ## Known interoperability issues tracked
 
-- Windows 11 24H2 compatibility with Veeam Agent — internal procedures
-  aligned with vendor KB guidance
+- Windows 11 24H2 compatibility with Veeam Agent — internal procedures aligned with vendor KB guidance
 
 ## Projects & evidence
 

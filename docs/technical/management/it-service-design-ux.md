@@ -2,11 +2,7 @@
 
 ## Overview
 
-Definition of user-oriented IT processes including service catalog
-design, SLA articulation, user onboarding and offboarding flows, and
-feedback loops. A frequently underestimated dimension of the modern IT
-manager role, where well-designed services reduce support load and
-increase adoption of internal tools.
+Definition of user-oriented IT processes including service catalog design, SLA articulation, user onboarding and offboarding flows, and feedback loops. A frequently underestimated dimension of the modern IT manager role, where well-designed services reduce support load and increase adoption of internal tools.
 
 ## Technologies & tools
 

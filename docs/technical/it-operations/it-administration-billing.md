@@ -2,36 +2,25 @@
 
 ## Overview
 
-Administrative management of IT-related billing operations, tenant
-configuration, vendor invoicing, and integration of financial workflows
-into the corporate ERP. Covers tax and electronic invoicing aspects
-(Italian SDI system), billing profile management, subscription
-transfers, and lease/SLA agreement administration.
+Administrative management of IT-related billing operations, tenant configuration, vendor invoicing, and integration of financial workflows into the corporate ERP. Covers tax and electronic invoicing aspects (Italian SDI system), billing profile management, subscription transfers, and lease/SLA agreement administration.
 
 ## Technologies & tools
 
-- **Microsoft 365** and **Microsoft Azure** — tenant-level billing and
-  invoicing address management
+- **Microsoft 365** and **Microsoft Azure** — tenant-level billing and invoicing address management
 - **Odoo** — ERP-integrated billing sequence management
 - Italian SDI (Sistema di Interscambio) — electronic invoicing pipeline
 - "Cassetto fiscale" — Italian tax authority portal
 
 ## Responsibilities & operational scope
 
-- Microsoft 365 and Microsoft Azure invoice management, including
-  account/billing-address configuration at tenant level
+- Microsoft 365 and Microsoft Azure invoice management, including account/billing-address configuration at tenant level
 - SDI and "cassetto fiscale" issue resolution
 - Billing profile management
-- Subscription transfers and migration of billing accounts between
-  tenants
-- Management of invoices, SLAs, lease contracts, and ISP provider
-  agreements
-- Technical handling of billing edge cases (credit notes, corrective
-  invoices, retroactive adjustments)
-- Integration and management of billing sequences within the Odoo ERP
-  system
-- Responsibility for billing operations and IT administration, ensuring
-  efficient financial workflows and system management
+- Subscription transfers and migration of billing accounts between tenants
+- Management of invoices, SLAs, lease contracts, and ISP provider agreements
+- Technical handling of billing edge cases (credit notes, corrective invoices, retroactive adjustments)
+- Integration and management of billing sequences within the Odoo ERP system
+- Responsibility for billing operations and IT administration, ensuring efficient financial workflows and system management
 
 ## Projects & evidence
 

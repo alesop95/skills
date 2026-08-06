@@ -2,9 +2,7 @@
 
 ## Overview
 
-*Capability identified automatically from project documentation.*
-Domain: **IT Operations**.
-Evidence preview: COMANDI UTILI PRONTI  WIN+R e poi "shell:startup" è la cartella dove si possono 
+*Capability identified automatically from project documentation.* Domain: **IT Operations**. Evidence preview: COMANDI UTILI PRONTI  WIN+R e poi "shell:startup" è la cartella dove si possono
 
 ## Technologies & tools
 

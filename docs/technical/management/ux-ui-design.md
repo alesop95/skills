@@ -2,9 +2,7 @@
 
 ## Overview
 
-User experience and interface design applied to internal tooling and
-SaaS deliverables, covering interaction design, prototyping, and visual
-consistency across products and internal applications.
+User experience and interface design applied to internal tooling and SaaS deliverables, covering interaction design, prototyping, and visual consistency across products and internal applications.
 
 ## Technologies & tools
 
@@ -13,10 +11,8 @@ consistency across products and internal applications.
 
 ## Responsibilities & operational scope
 
-*Capability stub. Skill entries are populated automatically from
-anonymized project documentation.*
+*Capability stub. Skill entries are populated automatically from anonymized project documentation.*
 
 ## Projects & evidence
 
-*Project entries are populated automatically from anonymized project
-documentation. None yet.*
+*Project entries are populated automatically from anonymized project documentation. None yet.*

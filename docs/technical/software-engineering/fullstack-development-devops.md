@@ -2,11 +2,7 @@
 
 ## Overview
 
-Full-stack software development applied to SaaS products and internal
-business applications, spanning relational data modeling, REST/API
-integration, frontend and backend layers, containerized deployment, and
-AI-assisted coding workflows. Covers monolithic, microservice, and
-decoupled frontend-backend architectures with Agile delivery practices.
+Full-stack software development applied to SaaS products and internal business applications, spanning relational data modeling, REST/API integration, frontend and backend layers, containerized deployment, and AI-assisted coding workflows. Covers monolithic, microservice, and decoupled frontend-backend architectures with Agile delivery practices.
 
 ## Technologies & tools
 
@@ -16,8 +12,7 @@ decoupled frontend-backend architectures with Agile delivery practices.
 - **Databases**: MySQL, PostgreSQL
 - **Local development**: XAMPP environment
 - **API testing and documentation**: Postman
-- **Containerization**: Docker (development and self-hosting of open-
-  source solutions, e.g. OpenProject in a VM)
+- **Containerization**: Docker (development and self-hosting of open- source solutions, e.g. OpenProject in a VM)
 - **IDE**: VS Code with advanced customization, MCP integration
 - **Version control**: advanced Git workflows
 - **AI-assisted coding**: agent-based workflows with specialized prompts
@@ -27,19 +22,13 @@ decoupled frontend-backend architectures with Agile delivery practices.
 - Full-stack SaaS development across frontend and backend layers
 - Relational database design with E/R diagrams
 - Database management on MySQL and PostgreSQL
-- API integration: testing, validation, and documentation of API calls
-  within system-integration workflows (Postman)
+- API integration: testing, validation, and documentation of API calls within system-integration workflows (Postman)
 - Advanced version control practices
-- AI-assisted coding and intelligent co-programming via specialized
-  prompts and agents
-- Containerization with Docker for both self-development and hosting
-  containerized versions of open-source software (e.g. OpenProject on a
-  VM)
-- Advanced VS Code customization, MCP and MVC paradigm fluency, CRUD
-  operation design
+- AI-assisted coding and intelligent co-programming via specialized prompts and agents
+- Containerization with Docker for both self-development and hosting containerized versions of open-source software (e.g. OpenProject on a VM)
+- Advanced VS Code customization, MCP and MVC paradigm fluency, CRUD operation design
 - Agile software development practice
-- Microservices deployment, microservice/monolith architecture, frontend-
-  backend decoupling strategies
+- Microservices deployment, microservice/monolith architecture, frontend- backend decoupling strategies
 
 ## Projects & evidence
 

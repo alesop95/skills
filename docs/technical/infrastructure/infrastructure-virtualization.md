@@ -2,11 +2,7 @@
 
 ## Overview
 
-Design, deployment, and operations of on-premise virtualization platforms,
-from bare-metal cluster bootstrap to day-2 lifecycle management of guest
-workloads. Covers hypervisor selection and configuration, virtual networking
-and shared storage, high availability, and automation of routine
-maintenance.
+Design, deployment, and operations of on-premise virtualization platforms, from bare-metal cluster bootstrap to day-2 lifecycle management of guest workloads. Covers hypervisor selection and configuration, virtual networking and shared storage, high availability, and automation of routine maintenance.
 
 ## Technologies & tools
 
@@ -19,16 +15,12 @@ maintenance.
 
 ## Responsibilities & operational scope
 
-- Full hypervisor deployment from scratch, including virtualized network
-  resource management, logical pool organization, NAT configuration, and
-  shared storage integration
+- Full hypervisor deployment from scratch, including virtualized network resource management, logical pool organization, NAT configuration, and shared storage integration
 - Cluster setup with high availability (HA) and shared storage
 - Setup and ongoing management of Windows Server and Linux guest VMs
 - Linux VM migration and long-term maintainability
-- Development of automation scripts for VM lifecycle operations: provisioning,
-  backups, snapshots, and routine maintenance tasks
-- Monitoring of VM-specific resources via Postfix/mailutils email alerts and
-  scheduled cron-based health checks on critical VMs
+- Development of automation scripts for VM lifecycle operations: provisioning, backups, snapshots, and routine maintenance tasks
+- Monitoring of VM-specific resources via Postfix/mailutils email alerts and scheduled cron-based health checks on critical VMs
 
 ## Projects & evidence
 

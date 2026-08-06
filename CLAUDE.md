@@ -1,7 +1,6 @@
 # skills-repo - Claude Code instructions
 
-Sei nella cartella **pubblica** `skills-repo` (GitHub: alesop95/skills).
-Tutto ciò che scrivi qui finisce online su `alesop95.github.io/skills/`.
+Sei nella cartella **pubblica** `skills-repo` (GitHub: alesop95/skills). Tutto ciò che scrivi qui finisce online su `alesop95.github.io/skills/`.
 
 Il motore privato che alimenta questo repo è `E:\lettore-doc`.
 
@@ -9,26 +8,13 @@ Il motore privato che alimenta questo repo è `E:\lettore-doc`.
 
 ## Regola fondamentale
 
-**Non scrivere mai dati sensibili** (nomi di clienti, codici progetto interni,
-indirizzi, importi specifici). I contenuti qui sono già stati anonimizzati
-da `export_to_taxonomy.py`. Se devi aggiungere testo manualmente, usa la
-stessa logica: aziende → "un'azienda del settore manifatturiero", nomi → ometti.
+**Non scrivere mai dati sensibili** (nomi di clienti, codici progetto interni, indirizzi, importi specifici). I contenuti qui sono già stati anonimizzati da `export_to_taxonomy.py`. Se devi aggiungere testo manualmente, usa la stessa logica: aziende → "un'azienda del settore manifatturiero", nomi → ometti.
 
 ---
 
 ## Struttura della tassonomia
 
-Ristrutturato il 2026-07-14: le Capability tecniche sono passate sotto `docs/technical/`
-(prima stavano alla radice di `docs/`) per lasciare spazio a una sezione separata
-`docs/soft/` per le soft skills, richiesta esplicitamente per alleggerire la sezione
-"Soft skills" del CV. La regola "non modificare la tabella Domain/Capability" di
-`docs/index.md` riguarda l'identita' e l'ordine dei Domain, non il path letterale dei
-link: quando le Capability si spostano, i link **vanno aggiornati**, altrimenti la
-build `--strict` fallisce (broken link). Gli URL tecnici pre-esistenti citati nel CV
-(`main.tex`) sono stati aggiornati in blocco per riflettere il nuovo prefisso
-`technical/`, quindi questo e' l'unico cambio di questo tipo previsto: non ripeterlo
-senza necessita', dato che ogni spostamento successivo richiederebbe un altro giro di
-aggiornamento dei link esterni.
+Ristrutturato il 2026-07-14: le Capability tecniche sono passate sotto `docs/technical/` (prima stavano alla radice di `docs/`) per lasciare spazio a una sezione separata `docs/soft/` per le soft skills, richiesta esplicitamente per alleggerire la sezione "Soft skills" del CV. La regola "non modificare la tabella Domain/Capability" di `docs/index.md` riguarda l'identita' e l'ordine dei Domain, non il path letterale dei link: quando le Capability si spostano, i link **vanno aggiornati**, altrimenti la build `--strict` fallisce (broken link). Gli URL tecnici pre-esistenti citati nel CV (`main.tex`) sono stati aggiornati in blocco per riflettere il nuovo prefisso `technical/`, quindi questo e' l'unico cambio di questo tipo previsto: non ripeterlo senza necessita', dato che ogni spostamento successivo richiederebbe un altro giro di aggiornamento dei link esterni.
 
 ```
 docs/
@@ -73,8 +59,7 @@ Ogni `.md` ha **quattro H2 in ordine invariato**:
 [NON rimuovere i commenti HTML: sono l'ancora di idempotenza]
 ```
 
-**Puoi modificare liberamente** Overview, Technologies & tools, Responsibilities.
-**Non rimuovere mai** i commenti `<!-- graphify-evidence-id: ... -->` in Projects & evidence.
+**Puoi modificare liberamente** Overview, Technologies & tools, Responsibilities. **Non rimuovere mai** i commenti `<!-- graphify-evidence-id: ... -->` in Projects & evidence.
 
 ---
 
@@ -93,18 +78,13 @@ Ogni `.md` ha **quattro H2 in ordine invariato**:
 
 ## Obsidian e Knowledge Graph
 
-`docs/` aperta come vault in Obsidian permette di navigare la tassonomia in
-locale e di visualizzare il Knowledge Graph interattivo (`graphify-out/graph.html`)
-come tab nativo via plugin Embed HTML. Per plugin, uso ortogonale di graphify,
-flusso di rigenerazione e pubblicazione vedere `OBSIDIAN.md` nella root.
+`docs/` aperta come vault in Obsidian permette di navigare la tassonomia in locale e di visualizzare il Knowledge Graph interattivo (`graphify-out/graph.html`) come tab nativo via plugin Embed HTML. Per plugin, uso ortogonale di graphify, flusso di rigenerazione e pubblicazione vedere `OBSIDIAN.md` nella root.
 
 ---
 
 ## Deploy
 
-Ogni `git push` su `main` trigga GitHub Actions che esegue
-`mkdocs build --strict` e pubblica su Pages. Se la build fallisce (X rossa
-nelle Actions), controllare link rotti o riferimenti a file non esistenti.
+Ogni `git push` su `main` trigga GitHub Actions che esegue `mkdocs build --strict` e pubblica su Pages. Se la build fallisce (X rossa nelle Actions), controllare link rotti o riferimenti a file non esistenti.
 
 ```powershell
 git add docs\
@@ -138,20 +118,13 @@ git remote set-url origin git@github-personal:alesop95/skills.git
 | `docs/soft/index.md` | `alesop95.github.io/skills/soft/` |
 | `docs/graphify-out/graph.html` | `alesop95.github.io/skills/graphify-out/graph.html` |
 
-Nota: MkDocs Material con `use_directory_urls: true` (default) produce URL
-senza `.html`. Non cambiare mai il nome/percorso di un file già linkato nel CV
-**senza poi aggiornare anche il link lato CV**: la migrazione del 2026-07-14 (Capability
-tecniche spostate sotto `technical/`) e' stata fatta APPOSTA con l'ok esplicito
-dell'utente e con l'aggiornamento contestuale di tutti i link in `main.tex` - non e'
-un'eccezione alla regola, e' la procedura da seguire se in futuro serve spostare
-di nuovo qualcosa.
+Nota: MkDocs Material con `use_directory_urls: true` (default) produce URL senza `.html`. Non cambiare mai il nome/percorso di un file già linkato nel CV **senza poi aggiornare anche il link lato CV**: la migrazione del 2026-07-14 (Capability tecniche spostate sotto `technical/`) e' stata fatta APPOSTA con l'ok esplicito dell'utente e con l'aggiornamento contestuale di tutti i link in `main.tex` - non e' un'eccezione alla regola, e' la procedura da seguire se in futuro serve spostare di nuovo qualcosa.
 
 ---
 
 ## Path locale e variabile d'ambiente
 
-Il repo vive in locale a `E:\skills`. La variabile d'ambiente `LETTERDOC_SKILLS_REPO`
-deve puntare a questo path. Valore attuale: `E:\skills`.
+Il repo vive in locale a `E:\skills`. La variabile d'ambiente `LETTERDOC_SKILLS_REPO` deve puntare a questo path. Valore attuale: `E:\skills`.
 
 Per verificare o aggiornare:
 

@@ -2,11 +2,7 @@
 
 ## Overview
 
-Tenant-level administration and advanced usage of the Microsoft 365
-Business suite across all major services, with attention to security
-posture, automation, and integration with external systems. Covers
-Exchange, SharePoint, Teams, OneDrive, Power Automate, and Purview as
-operational tools rather than as end-user applications.
+Tenant-level administration and advanced usage of the Microsoft 365 Business suite across all major services, with attention to security posture, automation, and integration with external systems. Covers Exchange, SharePoint, Teams, OneDrive, Power Automate, and Purview as operational tools rather than as end-user applications.
 
 ## Technologies & tools
 
@@ -15,8 +11,7 @@ operational tools rather than as end-user applications.
 - **SharePoint Online**, **Teams**, **OneDrive** — collaboration stack
 - **Power Automate** — workflow automation with API triggers
 - **Microsoft Purview** — audit log management and data analysis
-- **Azure AD / Microsoft Entra** — Client ID, Client Secret, Tenant ID
-  for app registrations
+- **Azure AD / Microsoft Entra** — Client ID, Client Secret, Tenant ID for app registrations
 - **Power Query** — eDiscovery dataset export and analysis
 - VBA, Office macros, Python-inside-Excel, Google Apps Script
 
@@ -25,15 +20,12 @@ operational tools rather than as end-user applications.
 - Microsoft 365 Business expertise across the full suite
 - Security policy and best-practice enforcement (e.g. MFA Enforcement)
 - Advanced usage of the Office suite, macros, VBA, and scripting
-- Management of advanced plugins and developer options (e.g. Python
-  inside Excel)
-- Structured, modular, hyperlinked content organization with custom
-  styles, accessibility protection, document control, and anonymization
+- Management of advanced plugins and developer options (e.g. Python inside Excel)
+- Structured, modular, hyperlinked content organization with custom styles, accessibility protection, document control, and anonymization
 
 ### Exchange
 
-- Setting private mail servers and custom notification alerts across
-  services
+- Setting private mail servers and custom notification alerts across services
 - Mailbox delegation and forwarding configuration
 - Mailbox archival, tracing, and deletion
 - Policy customization
@@ -58,8 +50,7 @@ operational tools rather than as end-user applications.
 
 - Pipeline design and scripting automation (Python integration)
 - Advanced triggering patterns
-- Client ID / Client Secret / Tenant ID for Azure AD / Microsoft Entra
-  connectivity
+- Client ID / Client Secret / Tenant ID for Azure AD / Microsoft Entra connectivity
 - Custom flows for corporate attendance management
 - eDiscovery dataset export and data analysis via Power Query
 

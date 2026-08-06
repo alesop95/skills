@@ -2,16 +2,11 @@
 
 ## Overview
 
-Custom in-house development of utilities, automation scripts, and small
-internal applications to support operational and project-management
-workflows. Spans Bash, PowerShell, and Python scripting for system
-automation, NLP/XML processing for translation-industry workflows, and
-desktop GUI development for distribution and onboarding tooling.
+Custom in-house development of utilities, automation scripts, and small internal applications to support operational and project-management workflows. Spans Bash, PowerShell, and Python scripting for system automation, NLP/XML processing for translation-industry workflows, and desktop GUI development for distribution and onboarding tooling.
 
 ## Technologies & tools
 
-- **Python** — primary scripting language; libraries include `pdfplumber`,
-  `openpyxl`, `pandas`, `spaCy`
+- **Python** — primary scripting language; libraries include `pdfplumber`, `openpyxl`, `pandas`, `spaCy`
 - **Bash** — Ubuntu cleanup, mailer setup, and system automation
 - **PowerShell** — endpoint scripting embedded in NinjaOne RMM
 - **Qt Designer** — desktop GUI development for internal Windows tools
@@ -26,37 +21,26 @@ desktop GUI development for distribution and onboarding tooling.
 - Bash scripts for Ubuntu cleanup and mailer environment setup
 - PowerShell scripts deployed via NinjaOne RMM for endpoint automation
 - Software plugin integration
-- Development of internal applications to facilitate project-management
-  work (e.g. Python+Qt Designer GUI tool for software distribution on
-  Windows)
+- Development of internal applications to facilitate project-management work (e.g. Python+Qt Designer GUI tool for software distribution on Windows)
 
 ### Python local scripting utilities
 
 - Character-count-per-line analysis on `.txt` files
 - Text extraction from PDF files to `.txt` (using `pdfplumber`)
-- Bulk conversion of `.xlsx` files in a folder to comma-separated `.txt`
-  files (using `openpyxl`)
-- Validation that strings in a file do not exceed a defined maximum
-  length
+- Bulk conversion of `.xlsx` files in a folder to comma-separated `.txt` files (using `openpyxl`)
+- Validation that strings in a file do not exceed a defined maximum length
 - Text extraction from `.docx` and `.xlsx` files to `.txt`
 - Splitting an Excel workbook into multiple files, one per sheet
-- Preparation of files for translators in a structured, automated way,
-  starting from a complex multilingual Excel
+- Preparation of files for translators in a structured, automated way, starting from a complex multilingual Excel
 - Excel preprocessing and multi-file splitting via `pandas`
 
 ### NLP and XML scripting
 
-- Extraction of common single words, acronyms, bigrams, and trigrams
-  from `.txt` files via `spaCy`, generating `.json` and `.txt`
-  glossaries with relative and absolute frequency thresholds
-- Reduction of a Translation Memory (TMX) by retaining only a
-  configurable percentage of translation units
+- Extraction of common single words, acronyms, bigrams, and trigrams from `.txt` files via `spaCy`, generating `.json` and `.txt` glossaries with relative and absolute frequency thresholds
+- Reduction of a Translation Memory (TMX) by retaining only a configurable percentage of translation units
 - Management and manipulation of hidden XML content via regex
 - Encoding and restoration of text content enclosed in XML tags
-- Extraction of the "skeleton" of a translated XML file using a
-  multi-line block manager, and reconstruction of the translated XML
-  file by reinserting translated sentences in place of numeric
-  placeholders in the skeleton
+- Extraction of the "skeleton" of a translated XML file using a multi-line block manager, and reconstruction of the translated XML file by reinserting translated sentences in place of numeric placeholders in the skeleton
 
 ### Cross-cutting utilities
 

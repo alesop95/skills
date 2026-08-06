@@ -2,17 +2,13 @@
 
 ## Overview
 
-Hands-on management of public and private cloud platforms for production
-workloads, including identity and access governance, cost monitoring,
-serverless application handling, backup/snapshot strategies, and migration
-of services between providers and on-premise environments.
+Hands-on management of public and private cloud platforms for production workloads, including identity and access governance, cost monitoring, serverless application handling, backup/snapshot strategies, and migration of services between providers and on-premise environments.
 
 ## Technologies & tools
 
 - **Amazon AWS** — IAM, serverless applications, S3-based backup
 - **Seeweb** — Foundation Server PRO, Cloud Appliance
-- **Google Cloud** — Apps Script, APIs integration, Webhooks, free-tier
-  services
+- **Google Cloud** — Apps Script, APIs integration, Webhooks, free-tier services
 - **Microsoft Azure** — see also Backup & Disaster Recovery
 - **Google Workspace** — daily operations, efficiency and automation tooling
 - **QNAP** — hybrid on-premise/cloud snapshot integration
@@ -20,18 +16,13 @@ of services between providers and on-premise environments.
 
 ## Responsibilities & operational scope
 
-- AWS administration: end-of-life policies, IAM role design with
-  principle of least privilege, data backup and restoration, service
-  migration between regions/accounts
+- AWS administration: end-of-life policies, IAM role design with principle of least privilege, data backup and restoration, service migration between regions/accounts
 - Hands-on management of serverless applications on AWS
 - Cloud cost monitoring and resource optimization across providers
 - Backup and snapshot orchestration in cloud (AWS, QNAP hybrid)
-- Optimization and configuration of Windows Server 2019/2022 as cloud
-  guest OS
-- Integration of Google Cloud services into business workflows via Apps
-  Script, REST APIs, and webhooks
-- Evaluation of free-tier offerings for prototyping and low-volume
-  production use
+- Optimization and configuration of Windows Server 2019/2022 as cloud guest OS
+- Integration of Google Cloud services into business workflows via Apps Script, REST APIs, and webhooks
+- Evaluation of free-tier offerings for prototyping and low-volume production use
 
 ## Projects & evidence
 
