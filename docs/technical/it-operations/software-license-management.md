@@ -6,10 +6,10 @@ End-to-end management of business software licenses and full migration of legacy
 
 ## Technologies & tools
 
-- **Trados License Manager**, **ABBYY**, **Biostar**, **TimeWalker** — business application licensing
-- **Apache Tomcat** (6 → 9) — Java servlet container, legacy and current
-- **Ubuntu** (10.04 → 24.04) — host OS for legacy Java applications
-- **MySQL** with JDBC driver — database backend for migrated applications
+- **Trados License Manager**, **ABBYY**, **Biostar**, **TimeWalker**: business application licensing
+- **Apache Tomcat** (6 → 9): Java servlet container, legacy and current
+- **Ubuntu** (10.04 → 24.04): host OS for legacy Java applications
+- **MySQL** with JDBC driver: database backend for migrated applications
 - WAR / JAR analysis, classloader behavior inspection
 
 ## Responsibilities & operational scope

@@ -6,7 +6,7 @@ Maintenance, development, and major-version migration of ERP systems supporting 
 
 ## Technologies & tools
 
-- **Odoo** — primary ERP platform, with hands-on experience across versions 12 through 18
+- **Odoo**: primary ERP platform, with hands-on experience across versions 12 through 18
 - Module-level customization within the Odoo framework
 - See also IT Administration & Billing for ERP-integrated invoicing
 

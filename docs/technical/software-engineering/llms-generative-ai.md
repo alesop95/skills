@@ -6,14 +6,14 @@ Technical leadership on custom LLM and generative-AI projects spanning RAG pipel
 
 ## Technologies & tools
 
-- **Ollama** — self-hosted LLM runtime on Ubuntu
-- **Zep** — on-premise vector store and knowledge graph
-- **Qdrant** — vector storage with snapshot management
-- **Cheshire Cat** — AI agent customization framework
-- **n8n** — workflow automation integrated with LLM pipelines
-- **TypeScript** — frontend integration layer with LLM backends
+- **Ollama**: self-hosted LLM runtime on Ubuntu
+- **Zep**: on-premise vector store and knowledge graph
+- **Qdrant**: vector storage with snapshot management
+- **Cheshire Cat**: AI agent customization framework
+- **n8n**: workflow automation integrated with LLM pipelines
+- **TypeScript**: frontend integration layer with LLM backends
 - Custom REST API orchestration for proprietary LLM engine
-- **XLIFF**, **TMX**, **JSON** — translation industry document formats with bidirectional conversion
+- **XLIFF**, **TMX**, **JSON**: translation industry document formats with bidirectional conversion
 
 ## Responsibilities & operational scope
 

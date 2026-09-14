@@ -13,9 +13,9 @@ Esta base de conocimiento documenta competencias técnicas, competencias transve
 | [Dirección](technical/management/leadership-management.md) | Liderazgo, Planificación de proyectos, Documentación, Calidad |
 ---
 
-→ **[Competencias transversales](soft/index.md)** — trabajo en equipo, comunicación, liderazgo y otras competencias transversales, separadas de las capacidades técnicas anteriores.
+**[Competencias transversales](soft/index.md)** cubre el trabajo en equipo, la comunicación, el liderazgo y otras competencias transversales, separadas de las capacidades técnicas anteriores.
 
-→ **[Grafo de conocimiento de competencias](graphify-out/graph.html)** — visualización interactiva de las relaciones entre capacidades, generada automáticamente con graphify.
+**[Grafo de conocimiento de competencias](graphify-out/graph.html)** visualiza de forma interactiva las relaciones entre capacidades, generada automáticamente con graphify.
 
 ## El puesto en síntesis
 

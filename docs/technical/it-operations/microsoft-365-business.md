@@ -6,13 +6,13 @@ Tenant-level administration and advanced usage of the Microsoft 365 Business sui
 
 ## Technologies & tools
 
-- **Microsoft 365 Business** — full tenant administration
-- **Exchange Online** — mail flow, eDiscovery, policy management
-- **SharePoint Online**, **Teams**, **OneDrive** — collaboration stack
-- **Power Automate** — workflow automation with API triggers
-- **Microsoft Purview** — audit log management and data analysis
-- **Azure AD / Microsoft Entra** — Client ID, Client Secret, Tenant ID for app registrations
-- **Power Query** — eDiscovery dataset export and analysis
+- **Microsoft 365 Business**: full tenant administration
+- **Exchange Online**: mail flow, eDiscovery, policy management
+- **SharePoint Online**, **Teams**, **OneDrive**: collaboration stack
+- **Power Automate**: workflow automation with API triggers
+- **Microsoft Purview**: audit log management and data analysis
+- **Azure AD / Microsoft Entra**: Client ID, Client Secret, Tenant ID for app registrations
+- **Power Query**: eDiscovery dataset export and analysis
 - VBA, Office macros, Python-inside-Excel, Google Apps Script
 
 ## Responsibilities & operational scope

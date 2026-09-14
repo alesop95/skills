@@ -6,10 +6,10 @@ Design, deployment, and operations of on-premise virtualization platforms, from 
 
 ## Technologies & tools
 
-- **Proxmox VE** (8.3.4) on Debian-based hosts — primary on-premise hypervisor
-- **VMware vSphere** — alternative enterprise hypervisor
-- **Postfix** + **mailutils** — automated email alerting from hypervisor hosts
-- **cron** — scheduled health checks and resource notifications
+- **Proxmox VE** (8.3.4) on Debian-based hosts: primary on-premise hypervisor
+- **VMware vSphere**: alternative enterprise hypervisor
+- **Postfix** + **mailutils**: automated email alerting from hypervisor hosts
+- **cron**: scheduled health checks and resource notifications
 - **Bash** scripting for VM lifecycle automation
 - Windows Server and Linux as guest operating systems
 

@@ -6,9 +6,9 @@ Strategic leadership of the corporate technical documentation function, treating
 
 ## Technologies & tools
 
-- **ITGlue** — node-based IT documentation platform
-- **Obsidian** — hyperlinked personal and team knowledge base
-- **DokuWiki** — self-hosted wiki on Linux server
+- **ITGlue**: node-based IT documentation platform
+- **Obsidian**: hyperlinked personal and team knowledge base
+- **DokuWiki**: self-hosted wiki on Linux server
 - Markdown-based documentation pipelines (see also DevOps and Workflow Automation)
 
 ## Responsibilities & operational scope

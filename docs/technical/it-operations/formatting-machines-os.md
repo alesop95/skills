@@ -6,11 +6,11 @@ End-to-end workstation rebuild and OS recovery operations across diverse hardwar
 
 ## Technologies & tools
 
-- **Medicat USB** — multi-tool recovery USB suite
-- **Clonezilla** — disk imaging and cloning
-- **gnome-disk-utility** — partition and volume operations
-- **Ubuntu LTS**, **Xubuntu**, **anduinOS** — Linux distributions tested and deployed
-- **Windows 11** — current target OS, including known-issue remediation
+- **Medicat USB**: multi-tool recovery USB suite
+- **Clonezilla**: disk imaging and cloning
+- **gnome-disk-utility**: partition and volume operations
+- **Ubuntu LTS**, **Xubuntu**, **anduinOS**: Linux distributions tested and deployed
+- **Windows 11**: current target OS, including known-issue remediation
 - Live OS environments for partitioning and recovery operations
 
 ## Responsibilities & operational scope

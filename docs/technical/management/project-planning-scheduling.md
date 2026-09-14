@@ -6,8 +6,8 @@ End-to-end project planning and controlling for IT initiatives, from Work Breakd
 
 ## Technologies & tools
 
-- **OpenProject** — self-hosted, Docker-deployed inside a VM for LAN- restricted user access
-- **Notion**, **Trello**, **Obsidian** — project management and knowledge organization platforms
+- **OpenProject**: self-hosted, Docker-deployed inside a VM for LAN- restricted user access
+- **Notion**, **Trello**, **Obsidian**: project management and knowledge organization platforms
 - Gantt charting and WBS tooling
 - Kanban systems for delivery tracking
 

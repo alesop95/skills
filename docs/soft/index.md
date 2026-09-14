@@ -6,13 +6,13 @@ Cross-cutting, non-technical skills built and exercised across different roles (
 
 ## Technologies & tools
 
-- **Stakeholder reporting** — direct reporting to executives on strategy and cost, and ownership of the reasoning behind a decision
-- **Supplier and client negotiation** — foreign suppliers, international clients, overseas production teams
-- **Team coordination** — cross-functional work across Operations, Marketing and Sales; leading an internal team with budget ownership
-- **Facilitation and teaching** — catechism educator for teenagers, volunteer event organization for a regional association
-- **Public speaking and diction** — structured coursework, applied to presentations and internal training
-- **Active listening** — EFT (Emotionally Focused Therapy) coursework, applied to how feedback and disagreement get handled
-- **Business analysis** — cost and competitor analysis behind product decisions, part-time Master in Business Strategy and Management
+- **Stakeholder reporting**: direct reporting to executives on strategy and cost, and ownership of the reasoning behind a decision
+- **Supplier and client negotiation**: foreign suppliers, international clients, overseas production teams
+- **Team coordination**: cross-functional work across Operations, Marketing and Sales; leading an internal team with budget ownership
+- **Facilitation and teaching**: catechism educator for teenagers, volunteer event organization for a regional association
+- **Public speaking and diction**: structured coursework, applied to presentations and internal training
+- **Active listening**: EFT (Emotionally Focused Therapy) coursework, applied to how feedback and disagreement get handled
+- **Business analysis**: cost and competitor analysis behind product decisions, part-time Master in Business Strategy and Management
 
 ## Responsibilities & operational scope
 

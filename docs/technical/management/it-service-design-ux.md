@@ -6,8 +6,8 @@ Definition of user-oriented IT processes including service catalog design, SLA a
 
 ## Technologies & tools
 
-- **Figma** — interface design and service-flow prototyping
-- **Streamlit** — fast prototyping of internal tooling with UI
+- **Figma**: interface design and service-flow prototyping
+- **Streamlit**: fast prototyping of internal tooling with UI
 - See also UX & UI Design for design-specific tooling
 
 ## Responsibilities & operational scope

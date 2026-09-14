@@ -6,11 +6,11 @@ Design and operation of backup and disaster recovery strategies covering physica
 
 ## Technologies & tools
 
-- **Veeam** — primary enterprise backup platform, both hypervisor-level and endpoint
-- **Proxmox VE** — full hypervisor backup and migration on physical servers
-- **QNAP** — primary NAS storage for backup targets
-- **Microsoft Azure Backup** — off-site cloud backup for selected workloads
-- **NinjaOne** — cloud encrypted backup for endpoints managed via RMM
+- **Veeam**: primary enterprise backup platform, both hypervisor-level and endpoint
+- **Proxmox VE**: full hypervisor backup and migration on physical servers
+- **QNAP**: primary NAS storage for backup targets
+- **Microsoft Azure Backup**: off-site cloud backup for selected workloads
+- **NinjaOne**: cloud encrypted backup for endpoints managed via RMM
 
 ## Responsibilities & operational scope
 
@@ -23,7 +23,7 @@ Design and operation of backup and disaster recovery strategies covering physica
 
 ## Known interoperability issues tracked
 
-- Windows 11 24H2 compatibility with Veeam Agent — internal procedures aligned with vendor KB guidance
+- Windows 11 24H2 compatibility with Veeam Agent: internal procedures aligned with vendor KB guidance
 
 ## Projects & evidence
 

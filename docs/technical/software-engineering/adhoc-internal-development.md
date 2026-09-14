@@ -6,11 +6,11 @@ Custom in-house development of utilities, automation scripts, and small internal
 
 ## Technologies & tools
 
-- **Python** — primary scripting language; libraries include `pdfplumber`, `openpyxl`, `pandas`, `spaCy`
-- **Bash** — Ubuntu cleanup, mailer setup, and system automation
-- **PowerShell** — endpoint scripting embedded in NinjaOne RMM
-- **Qt Designer** — desktop GUI development for internal Windows tools
-- **Regex** — XML/TMX/XLIFF content manipulation
+- **Python**: primary scripting language; libraries include `pdfplumber`, `openpyxl`, `pandas`, `spaCy`
+- **Bash**: Ubuntu cleanup, mailer setup, and system automation
+- **PowerShell**: endpoint scripting embedded in NinjaOne RMM
+- **Qt Designer**: desktop GUI development for internal Windows tools
+- **Regex**: XML/TMX/XLIFF content manipulation
 - Group Policy (GPO) for Windows-domain user lifecycle automation
 
 ## Responsibilities & operational scope

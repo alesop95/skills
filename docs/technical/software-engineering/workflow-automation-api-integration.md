@@ -6,7 +6,7 @@ Design and operation of cross-system workflow automation via n8n, connecting lin
 
 ## Technologies & tools
 
-- **n8n** — primary workflow automation platform
+- **n8n**: primary workflow automation platform
 - REST APIs across business platforms
 - Webhook-based event triggers
 - See also LLMs & Generative AI for n8n integration with Zep/Ollama

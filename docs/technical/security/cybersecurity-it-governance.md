@@ -6,18 +6,18 @@ Definition, implementation, and monitoring of cybersecurity strategies protectin
 
 ## Technologies & tools
 
-- **GDPR data breach workflow** — breach register, risk assessment, notification to the Garante within 72 hours, communication to data subjects (Articles 33 and 34, Legislative Decree 51/2018)
-- **Bitdefender GravityZone** — EDR platform (see also Networking)
-- **ESET business** — centralized endpoint distribution, license management, custom protection policies
-- **OpenVAS** — vulnerability scanning, including VMware ESXi free edition
-- **Nessus** — vulnerability assessment on VMware (vCenter-managed and standalone ESXi)
-- **VMware vCenter / ESXi** — assessment target environments
+- **GDPR data breach workflow**: breach register, risk assessment, notification to the Garante within 72 hours, communication to data subjects (Articles 33 and 34, Legislative Decree 51/2018)
+- **Bitdefender GravityZone**: EDR platform (see also Networking)
+- **ESET business**: centralized endpoint distribution, license management, custom protection policies
+- **OpenVAS**: vulnerability scanning, including VMware ESXi free edition
+- **Nessus**: vulnerability assessment on VMware (vCenter-managed and standalone ESXi)
+- **VMware vCenter / ESXi**: assessment target environments
 
 ### Certifications and ongoing study
 
 - ISO/IEC 27001 (responsible for corporate implementation, ongoing study)
-- CompTIA Security+ (SY0-701) — planned certification
-- ISO/IEC 27001:2022 Foundation — planned certification
+- CompTIA Security+ (SY0-701): planned certification
+- ISO/IEC 27001:2022 Foundation: planned certification
 
 ## Responsibilities & operational scope
 
@@ -241,7 +241,7 @@ DESCRIZIONE DELLE ATTIVITÀ Nel presente paragrafo sono descritte le modalità o
 - **Source**: `DORA (brief GPT explanation).md`
 - **Graph community**: 5
 
-The DORA Regulation (Digital Operational Resilience Act) — EU Regulation (EU) 2022/2554, in force since January 2023 and applicable from 17 January 2025 — applies to a broad range of entities in the f
+The DORA Regulation (Digital Operational Resilience Act), EU Regulation (EU) 2022/2554, in force since January 2023 and applicable from 17 January 2025, applies to a broad range of entities in the f
 
 *Technology stack: to be enriched from source document.*
 
@@ -251,7 +251,7 @@ The DORA Regulation (Digital Operational Resilience Act) — EU Regulation (EU) 
 - **Source**: `DORA (brief GPT explanation).md`
 - **Graph community**: 5
 
-The DORA Regulation (Digital Operational Resilience Act) — EU Regulation (EU) 2022/2554, in force since January 2023 and applicable from 17 January 2025 — applies to a broad range of entities in the f
+The DORA Regulation (Digital Operational Resilience Act), EU Regulation (EU) 2022/2554, in force since January 2023 and applicable from 17 January 2025, applies to a broad range of entities in the f
 
 *Technology stack: to be enriched from source document.*
 
@@ -281,7 +281,7 @@ You are not directly regulated by DORA in the same way as a bank is, unless you 
 - **Source**: `DORA (brief GPT explanation).md`
 - **Graph community**: 5
 
-The DORA Regulation (Digital Operational Resilience Act) — EU Regulation (EU) 2022/2554, in force since January 2023 and applicable from 17 January 2025 — applies to a broad range of entities in the f
+The DORA Regulation (Digital Operational Resilience Act), EU Regulation (EU) 2022/2554, in force since January 2023 and applicable from 17 January 2025, applies to a broad range of entities in the f
 
 *Technology stack: to be enriched from source document.*
 
@@ -475,4 +475,4 @@ INTRODUZIONE La normativa contenuta nel Regolamento UE 2016/679 si propone di tu
 
 ## Capability gaps acknowledged
 
-Broader visibility on strategic IT planning, budget, KPIs, risk assessment, procurement, and policy is currently developing — see Leadership & Management for cross-cutting coverage.
+Broader visibility on strategic IT planning, budget, KPIs, risk assessment, procurement, and policy is currently developing; see Leadership & Management for cross-cutting coverage.

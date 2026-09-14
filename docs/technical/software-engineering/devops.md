@@ -6,13 +6,13 @@ DevOps practices applied to internal SaaS development and IT operations, coverin
 
 ## Technologies & tools
 
-- **Docker** — containerization for self-development and hosting of open-source solutions (see Full-Stack Development for application use)
+- **Docker**: containerization for self-development and hosting of open-source solutions (see Full-Stack Development for application use)
 - CI/CD pipelines (vendor evaluation under Entrepreneurship & Technical Leading)
 - See also Workflow Automation & API Integration for n8n-based pipelines
 
 ## Responsibilities & operational scope
 
-*Capability stub — significant operational content overlaps with Full- Stack Development & DevOps and System Administration. Dedicated entries will be populated automatically from anonymized project documentation.*
+*Capability stub: significant operational content overlaps with Full- Stack Development & DevOps and System Administration. Dedicated entries will be populated automatically from anonymized project documentation.*
 
 ## Projects & evidence
 

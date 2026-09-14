@@ -6,9 +6,9 @@ First and second-level technical support for local and remote users, covering di
 
 ## Technologies & tools
 
-- **nLite** — custom Windows bootable media builds
+- **nLite**: custom Windows bootable media builds
 - Linux live environments for GPT partitioning and pre-install operations
-- **ABBYY License Manager**, **Trados**, **Biostar**, **TimeWalker** — managed business applications
+- **ABBYY License Manager**, **Trados**, **Biostar**, **TimeWalker**: managed business applications
 - UPS systems for electrical continuity
 - Antivirus / endpoint protection (see also Cybersecurity & IT Governance)
 

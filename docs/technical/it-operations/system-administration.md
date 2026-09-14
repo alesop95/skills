@@ -8,17 +8,17 @@ Formal system administrator role with end-to-end responsibility for physical and
 
 ## Technologies & tools
 
-- **Windows Server** and Windows client (10/11) — primary endpoint and server OS
-- **Linux** (Debian/Ubuntu lineage) — server administration and Bash scripting
-- **NinjaOne** — RMM platform for centralized fleet management
-- **PowerShell**, **Python**, **Bash** — automation and custom scripting
-- **OpenSSH**, **FTP**, **SFTP** — secure remote access and file transfer
+- **Windows Server** and Windows client (10/11): primary endpoint and server OS
+- **Linux** (Debian/Ubuntu lineage): server administration and Bash scripting
+- **NinjaOne**: RMM platform for centralized fleet management
+- **PowerShell**, **Python**, **Bash**: automation and custom scripting
+- **OpenSSH**, **FTP**, **SFTP**: secure remote access and file transfer
 - **TLS/HTTPS** certificate management
-- **Microsoft Teams**, **Telegram** — alerting destinations
-- **ITGlue** — RMM-integrated documentation
+- **Microsoft Teams**, **Telegram**: alerting destinations
+- **ITGlue**: RMM-integrated documentation
 - Native Windows admin tooling: `systeminfo`, `msinfo32`, `wmic`, `sfc /scannow`, `chkdsk`, `driverquery`, `tasklist`, `taskkill`, `regedit`, `taskmgr`, `cleanmgr`, `diskpart`, `diskmgmt.msc`, `devmgmt.msc`, `compmgmt.msc`, `perfmon`, `eventvwr`, `services.msc`, `msconfig`, `netplwiz`
 - Native network troubleshooting: `ipconfig /all`, `ping`, `tracert`, `netstat -ano`, `getmac`
-- **Wine** — Windows application compatibility on Linux
+- **Wine**: Windows application compatibility on Linux
 
 ## Responsibilities & operational scope
 

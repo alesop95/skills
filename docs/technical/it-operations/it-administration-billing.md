@@ -6,10 +6,10 @@ Administrative management of IT-related billing operations, tenant configuration
 
 ## Technologies & tools
 
-- **Microsoft 365** and **Microsoft Azure** — tenant-level billing and invoicing address management
-- **Odoo** — ERP-integrated billing sequence management
-- Italian SDI (Sistema di Interscambio) — electronic invoicing pipeline
-- "Cassetto fiscale" — Italian tax authority portal
+- **Microsoft 365** and **Microsoft Azure**: tenant-level billing and invoicing address management
+- **Odoo**: ERP-integrated billing sequence management
+- Italian SDI (Sistema di Interscambio): electronic invoicing pipeline
+- "Cassetto fiscale": Italian tax authority portal
 
 ## Responsibilities & operational scope
 

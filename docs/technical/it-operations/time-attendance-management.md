@@ -6,7 +6,7 @@ Lifecycle management of time and attendance systems including installation, conf
 
 ## Technologies & tools
 
-- **SQL Server** — primary database backend for time & attendance systems
+- **SQL Server**: primary database backend for time & attendance systems
 - Time-clock terminal firmware (vendor-specific upgrade procedures)
 - LAN-based hosting and access-control rules
 - Backup and snapshot procedures for biometric data

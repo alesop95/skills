@@ -13,9 +13,9 @@ Questa base di conoscenza documenta competenze tecniche, competenze trasversali,
 | [Management](technical/management/leadership-management.md) | Leadership, Pianificazione progetti, Documentazione, Qualità |
 ---
 
-→ **[Competenze trasversali](soft/index.md)** — lavoro di squadra, comunicazione, leadership e altre competenze trasversali, separate dalle capability tecniche qui sopra.
+**[Competenze trasversali](soft/index.md)** copre lavoro di squadra, comunicazione, leadership e altre competenze trasversali, separate dalle capability tecniche qui sopra.
 
-→ **[Knowledge Graph delle competenze](graphify-out/graph.html)** — visualizzazione interattiva delle relazioni fra le capability, generata automaticamente con graphify.
+**[Knowledge Graph delle competenze](graphify-out/graph.html)** visualizza in modo interattivo le relazioni fra le capability, generata automaticamente con graphify.
 
 ## Il ruolo in sintesi
 

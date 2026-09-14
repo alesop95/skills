@@ -6,12 +6,12 @@ Protection of corporate and personal data through encryption at rest, secure pas
 
 ## Technologies & tools
 
-- **Vaultwarden** — self-hosted Bitwarden-compatible password manager, deployed across corporate LAN
-- **KeePass XC** — local password manager for individual use
-- **BitLocker** — Windows full-disk encryption
-- **VeraCrypt** — container-based encryption
-- **Proton Drive** — zero-knowledge cloud storage
-- **OneDrive Personal Vault** — encrypted partition within OneDrive
+- **Vaultwarden**: self-hosted Bitwarden-compatible password manager, deployed across corporate LAN
+- **KeePass XC**: local password manager for individual use
+- **BitLocker**: Windows full-disk encryption
+- **VeraCrypt**: container-based encryption
+- **Proton Drive**: zero-knowledge cloud storage
+- **OneDrive Personal Vault**: encrypted partition within OneDrive
 
 ## Responsibilities & operational scope
 

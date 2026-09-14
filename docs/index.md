@@ -13,9 +13,9 @@ This knowledge base documents technical skills, soft skills, capabilities, and o
 | [Management](technical/management/leadership-management.md) | Leadership, Project Planning, Documentation, Quality |
 ---
 
-→ **[Soft Skills](soft/index.md)** — teamwork, comunicazione, leadership e altre competenze trasversali, separate dalle capability tecniche qui sopra.
+**[Soft Skills](soft/index.md)** copre lavoro di squadra, comunicazione, leadership e altre competenze trasversali, separate dalle capability tecniche qui sopra.
 
-→ **[Skills Knowledge Graph](graphify-out/graph.html)** — visualizzazione interattiva delle relazioni tra Capability (generata automaticamente con graphify).
+**[Skills Knowledge Graph](graphify-out/graph.html)** visualizza in modo interattivo le relazioni tra Capability, generata automaticamente con graphify.
 
 ## Role overview
 

@@ -6,10 +6,10 @@ Design and operation of structured corporate networks spanning LAN, WAN, Wi-Fi, 
 
 ## Technologies & tools
 
-- **IPsec VPN** — internal and external remote access
-- **Bitdefender GravityZone** — EDR platform
-- **WordPress** admin — for hosted/CMS workloads
-- **Aruba**, **Fastnet** — domain registration and hosting providers
+- **IPsec VPN**: internal and external remote access
+- **Bitdefender GravityZone**: EDR platform
+- **WordPress** admin: for hosted/CMS workloads
+- **Aruba**, **Fastnet**: domain registration and hosting providers
 - Physical and cloud-based firewall systems (vendor-agnostic experience)
 
 ## Responsibilities & operational scope

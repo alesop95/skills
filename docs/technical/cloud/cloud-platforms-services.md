@@ -6,12 +6,12 @@ Hands-on management of public and private cloud platforms for production workloa
 
 ## Technologies & tools
 
-- **Amazon AWS** — IAM, serverless applications, S3-based backup
-- **Seeweb** — Foundation Server PRO, Cloud Appliance
-- **Google Cloud** — Apps Script, APIs integration, Webhooks, free-tier services
-- **Microsoft Azure** — see also Backup & Disaster Recovery
-- **Google Workspace** — daily operations, efficiency and automation tooling
-- **QNAP** — hybrid on-premise/cloud snapshot integration
+- **Amazon AWS**: IAM, serverless applications, S3-based backup
+- **Seeweb**: Foundation Server PRO, Cloud Appliance
+- **Google Cloud**: Apps Script, APIs integration, Webhooks, free-tier services
+- **Microsoft Azure**: see also Backup & Disaster Recovery
+- **Google Workspace**: daily operations, efficiency and automation tooling
+- **QNAP**: hybrid on-premise/cloud snapshot integration
 - Windows Server 2019 / 2022 as cloud-hosted guest OS
 
 ## Responsibilities & operational scope

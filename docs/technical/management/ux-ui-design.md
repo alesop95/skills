@@ -6,8 +6,8 @@ User experience and interface design applied to internal tooling and SaaS delive
 
 ## Technologies & tools
 
-- **Figma** — interface design and prototyping (see also IT Service Design)
-- **Streamlit** — fast UI prototyping for internal Python tools
+- **Figma**: interface design and prototyping (see also IT Service Design)
+- **Streamlit**: fast UI prototyping for internal Python tools
 
 ## Responsibilities & operational scope
 
